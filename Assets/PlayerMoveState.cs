@@ -17,6 +17,7 @@ public class PlayerMoveState : IPlayerState
 
     public void Enter()
     {
+        player.anim.SetBool(animBoolName, true);
         Debug.Log("Enter Move State");
     }
 
@@ -31,6 +32,7 @@ public class PlayerMoveState : IPlayerState
 
     public void Exit()
     {
+        player.anim.SetBool(animBoolName, false);
         Debug.Log("Exit Move State");
     }
 }

@@ -16,6 +16,7 @@ public class PlayerIdleState : IPlayerState
 
     public void Enter()
     {
+        player.anim.SetBool(animBoolName, true);
         Debug.Log("Enter Idle State");
     }
 
@@ -30,6 +31,7 @@ public class PlayerIdleState : IPlayerState
 
     public void Exit()
     {
+        player.anim.SetBool(animBoolName, false);
         Debug.Log("Exit Idle State");
     }
 }
