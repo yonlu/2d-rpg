@@ -16,6 +16,9 @@ public class Player : MonoBehaviour
     [SerializeField] private float wallCheckDistance;
     [SerializeField] private LayerMask whatIsGround;
 
+    public int facingDir { get; private set; } = 1;
+    private bool facingRight = true;
+
 #region Components
     public Animator anim { get; private set; }
     public Rigidbody2D rb { get; private set; }
@@ -65,6 +68,7 @@ public class Player : MonoBehaviour
     public void SetVelocity(float xVelocity, float yVelocity)
     {
         rb.velocity = new Vector2(xVelocity, yVelocity);
+        FlipController(xVelocity);
     }
 
     public bool IsGroundDetected() => Physics2D.Raycast(groundCheck.position, Vector2.down, groundCheckDistance, whatIsGround);
@@ -76,5 +80,27 @@ public class Player : MonoBehaviour
         Gizmos.DrawLine(wallCheck.position, new Vector3(wallCheck.position.x + wallCheckDistance, wallCheck.position.y));
         Gizmos.DrawWireSphere(groundCheck.position, groundCheckDistance);
         Gizmos.DrawWireSphere(wallCheck.position, wallCheckDistance);
+    }
+
+    public void Flip()
+    {
+        facingDir *= -1;
+        facingRight = !facingRight;
+        transform.Rotate(0f, 180f, 0f);
+    }
+
+    public void FlipController(float x)
+    {
+        if (x > 0 && !facingRight)
+        {
+            Flip();
+            return;
+        }
+
+        if (x < 0 && facingRight)
+        {
+            Flip();
+            return;
+        }
     }
 }
