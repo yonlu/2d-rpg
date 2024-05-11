@@ -4,35 +4,33 @@ using UnityEngine;
 
 public class PlayerMoveState : IPlayerState
 {
-
-    private Player player;
-    private PlayerStateMachine stateMachine;
+    private PlayerContext context;
     private string animBoolName = "Move";
 
-    public PlayerMoveState(Player player, PlayerStateMachine stateMachine)
+    public PlayerMoveState(PlayerContext context)
     {
-        this.player = player;
-        this.stateMachine = stateMachine;
+        this.context = context;
     }
 
     public void Enter()
     {
-        player.anim.SetBool(animBoolName, true);
+        context.SetAnimation(animBoolName, true);
         Debug.Log("Enter Move State");
     }
 
     public void Update()
     {
         Debug.Log("Update Move State");
+        context.player.SetVelocity(context.HorizontalInput * context.player.moveSpeed, context.player.rb.velocity.y);
 
-        if (Input.GetKeyDown(KeyCode.N)) {
-            stateMachine.ChangeState(player.idleState);
+        if (context.HorizontalInput == 0) {
+            context.stateMachine.ChangeState(context.player.idleState);
         }
     }
 
     public void Exit()
     {
-        player.anim.SetBool(animBoolName, false);
+        context.SetAnimation(animBoolName, false);
         Debug.Log("Exit Move State");
     }
 }

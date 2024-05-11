@@ -4,34 +4,31 @@ using UnityEngine;
 
 public class PlayerIdleState : IPlayerState
 {
-    private Player player;
-    private PlayerStateMachine stateMachine;
+    private PlayerContext context;
     private string animBoolName = "Idle";
 
-    public PlayerIdleState(Player player, PlayerStateMachine stateMachine)
+    public PlayerIdleState(PlayerContext context)
     {
-        this.player = player;
-        this.stateMachine = stateMachine;
+        this.context = context;
     }
 
     public void Enter()
     {
-        player.anim.SetBool(animBoolName, true);
+        context.SetAnimation(animBoolName, true);
         Debug.Log("Enter Idle State");
     }
 
     public void Update()
     {
         Debug.Log("Update Idle State");
-
-        if (Input.GetKeyDown(KeyCode.N)) {
-            stateMachine.ChangeState(player.moveState);
+        if (context.HorizontalInput != 0) {
+            context.stateMachine.ChangeState(context.player.moveState);
         }
     }
 
     public void Exit()
     {
-        player.anim.SetBool(animBoolName, false);
+        context.SetAnimation(animBoolName, false);
         Debug.Log("Exit Idle State");
     }
 }
