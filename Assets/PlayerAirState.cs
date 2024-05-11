@@ -19,7 +19,7 @@ public class PlayerAirState : IPlayerState
 
     public void Update()
     {
-        if (context.player.rb.velocity.y == 0)
+        if (context.player.IsGroundDetected())
         {
             context.stateMachine.ChangeState(context.player.idleState);
         }

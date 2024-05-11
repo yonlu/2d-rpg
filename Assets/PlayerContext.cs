@@ -20,7 +20,9 @@ public class PlayerContext
     public void UpdateInput()
     {
         HorizontalInput = Input.GetAxisRaw("Horizontal");
-        JumpInput = Input.GetKeyDown(KeyCode.Space);
+        if (player.IsGroundDetected()) {
+            JumpInput = Input.GetKeyDown(KeyCode.Space);
+        }
         player.anim.SetFloat("yVelocity", player.rb.velocity.y);
     }
 
