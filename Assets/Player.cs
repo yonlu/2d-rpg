@@ -6,6 +6,7 @@ public class Player : MonoBehaviour
 {
     [Header("Move Info")]
     public float moveSpeed = 12f;
+    public float jumpForce = 12f;
 
 #region Components
     public Animator anim { get; private set; }
@@ -16,6 +17,9 @@ public class Player : MonoBehaviour
     public PlayerStateMachine stateMachine { get; private set; }
     public PlayerIdleState idleState { get; private set; }
     public PlayerMoveState moveState { get; private set; }
+    public PlayerJumpState jumpState { get; private set; }
+    public PlayerAirState airState { get; private set; }
+    public PlayerGroundedState groundedState { get; private set; }
 #endregion
 
     public PlayerContext context { get; private set; }
@@ -29,6 +33,9 @@ public class Player : MonoBehaviour
 
         idleState = new PlayerIdleState(context);
         moveState = new PlayerMoveState(context);
+        jumpState = new PlayerJumpState(context);
+        airState = new PlayerAirState(context);
+        groundedState = new PlayerGroundedState(context);
     }
 
     private void Start()
@@ -40,6 +47,11 @@ public class Player : MonoBehaviour
     {
         context.UpdateInput();
         stateMachine.currentState.Update();
+
+        if (context.JumpInput)
+        {
+            stateMachine.ChangeState(jumpState);
+        }
     }
 
     public void SetVelocity(float xVelocity, float yVelocity)
