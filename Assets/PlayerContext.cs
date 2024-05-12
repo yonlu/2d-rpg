@@ -9,6 +9,8 @@ public class PlayerContext
     public Animator animator;
     public float HorizontalInput { get; private set; }
     public bool JumpInput { get; private set; }
+    public bool DashInput { get; private set; }
+    public float stateTimer;
 
     public PlayerContext(Player player, PlayerStateMachine stateMachine, Animator animator)
     {
@@ -17,17 +19,23 @@ public class PlayerContext
         this.animator = animator;
     }
 
-    public void UpdateInput()
+    public void Update()
     {
+        stateTimer -= Time.deltaTime;
         HorizontalInput = Input.GetAxisRaw("Horizontal");
-        if (player.IsGroundDetected()) {
-            JumpInput = Input.GetKeyDown(KeyCode.Space);
-        }
+        DashInput = Input.GetKeyDown(KeyCode.LeftShift);
+        JumpInput = Input.GetKeyDown(KeyCode.Space);
+
         player.anim.SetFloat("yVelocity", player.rb.velocity.y);
     }
 
     public void SetAnimation(string boolName, bool value)
     {
         animator.SetBool(boolName, value);
+    }
+
+    public void SetStateTimer(float time)
+    {
+        stateTimer = time;
     }
 }

@@ -17,7 +17,6 @@ public class PlayerJumpState : IPlayerState
     {
         context.player.rb.velocity = new Vector2(context.player.rb.velocity.x, context.player.jumpForce); 
         context.SetAnimation(animBoolName, true);
-        Debug.Log("Enter Jump State");
     }
 
     public void Update()
@@ -31,7 +30,6 @@ public class PlayerJumpState : IPlayerState
     public void Exit()
     {
         context.SetAnimation(animBoolName, false);
-        Debug.Log("Exit Jump State");
     }
 
 }

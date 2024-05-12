@@ -11,10 +11,10 @@ public class PlayerAirState : IPlayerState
     {
         this.context = context;
     }
+
     public void Enter()
     {
         context.SetAnimation(animBoolName, true);
-        Debug.Log("Enter Air State");
     }
 
     public void Update()
@@ -28,7 +28,5 @@ public class PlayerAirState : IPlayerState
     public void Exit()
     {
         context.SetAnimation(animBoolName, false);
-        Debug.Log("Leave Air State");
     }
-
 }

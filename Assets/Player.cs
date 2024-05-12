@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 using UnityEngine;
 
 public class Player : MonoBehaviour
@@ -7,6 +8,8 @@ public class Player : MonoBehaviour
     [Header("Move Info")]
     public float moveSpeed = 12f;
     public float jumpForce = 12f;
+    public float dashSpeed = 25f;
+    public float dashDuration = 0.2f;
 
     [Header("Collision Info")]
     [SerializeField] private Transform groundCheck;
@@ -31,6 +34,7 @@ public class Player : MonoBehaviour
     public PlayerJumpState jumpState { get; private set; }
     public PlayerAirState airState { get; private set; }
     public PlayerGroundedState groundedState { get; private set; }
+    public PlayerDashState dashState  { get; private set; }
 #endregion
 
     public PlayerContext context { get; private set; }
@@ -47,6 +51,7 @@ public class Player : MonoBehaviour
         jumpState = new PlayerJumpState(context);
         airState = new PlayerAirState(context);
         groundedState = new PlayerGroundedState(context);
+        dashState = new PlayerDashState(context);
     }
 
     private void Start()
@@ -56,12 +61,12 @@ public class Player : MonoBehaviour
 
     private void Update()
     {
-        context.UpdateInput();
         stateMachine.currentState.Update();
+        context.Update();
 
-        if (context.JumpInput)
+        if (context.DashInput)
         {
-            stateMachine.ChangeState(jumpState);
+            stateMachine.ChangeState(dashState);
         }
     }
 

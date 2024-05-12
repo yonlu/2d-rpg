@@ -15,20 +15,21 @@ public class PlayerIdleState : IPlayerState
     public void Enter()
     {
         context.SetAnimation(animBoolName, true);
-        Debug.Log("Enter Idle State");
     }
 
     public void Update()
     {
-        Debug.Log("Update Idle State");
         if (context.HorizontalInput != 0) {
             context.stateMachine.ChangeState(context.player.moveState);
+        }
+
+        if (context.JumpInput && context.player.IsGroundDetected()) {
+            context.stateMachine.ChangeState(context.player.jumpState);
         }
     }
 
     public void Exit()
     {
         context.SetAnimation(animBoolName, false);
-        Debug.Log("Exit Idle State");
     }
 }
