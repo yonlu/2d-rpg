@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Data;
 using UnityEngine;
 
 public class PlayerDashState : IPlayerState
@@ -21,16 +22,20 @@ public class PlayerDashState : IPlayerState
 
     public void Update()
     {
-        context.player.SetVelocity(context.player.dashSpeed * context.player.facingDir, context.player.rb.velocity.y);
+        if (context.player.dashDir == 0) {
+            context.player.dashDir = context.player.facingDir;
+        }
+
+        context.player.SetVelocity(context.player.dashSpeed * context.player.dashDir, 0);
 
         if (context.stateTimer < 0) {
-            context.stateMachine.ChangeState(context.player.idleState);
+            context.stateMachine.ChangeState(context.player.airState);
         }
     }
 
     public void Exit()
     {
-        context.player.SetVelocity(0, context.player.rb.velocity.y);
+        context.player.SetVelocity(context.HorizontalInput * context.player.moveSpeed, context.player.rb.velocity.y);
         context.SetAnimation(animBoolName, false);
     }
 

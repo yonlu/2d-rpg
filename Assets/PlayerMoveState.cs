@@ -21,6 +21,10 @@ public class PlayerMoveState : IPlayerState
     {
         context.player.SetVelocity(context.HorizontalInput * context.player.moveSpeed, context.player.rb.velocity.y);
 
+        if (context.JumpInput) {
+            context.stateMachine.ChangeState(context.player.jumpState);
+        }
+
         if (context.HorizontalInput == 0) {
             context.stateMachine.ChangeState(context.player.idleState);
         }

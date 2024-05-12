@@ -8,8 +8,13 @@ public class Player : MonoBehaviour
     [Header("Move Info")]
     public float moveSpeed = 12f;
     public float jumpForce = 12f;
+
+    [Header("Dash Info")]
     public float dashSpeed = 25f;
     public float dashDuration = 0.2f;
+    public float dashDir = 1f;
+    [SerializeField] public float dashCooldown;
+    public float dashCooldownTimer;
 
     [Header("Collision Info")]
     [SerializeField] private Transform groundCheck;
@@ -63,11 +68,6 @@ public class Player : MonoBehaviour
     {
         stateMachine.currentState.Update();
         context.Update();
-
-        if (context.DashInput)
-        {
-            stateMachine.ChangeState(dashState);
-        }
     }
 
     public void SetVelocity(float xVelocity, float yVelocity)
