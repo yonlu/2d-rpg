@@ -11,7 +11,9 @@ public class PlayerContext
     public float VerticalInput { get; private set; }
     public bool JumpInput { get; private set; }
     public bool DashInput { get; private set; }
+    public bool PrimaryAttackInput { get; private set; }
     public float stateTimer;
+    public bool triggerCalled;
 
     public PlayerContext(Player player, PlayerStateMachine stateMachine, Animator animator)
     {
@@ -29,6 +31,7 @@ public class PlayerContext
         VerticalInput = Input.GetAxisRaw("Vertical");
         DashInput = Input.GetKeyDown(KeyCode.LeftShift);
         JumpInput = Input.GetKeyDown(KeyCode.Space);
+        PrimaryAttackInput = Input.GetKeyDown(KeyCode.Mouse0);
 
         if (DashInput && player.IsWallDetected())
             return;
@@ -50,5 +53,11 @@ public class PlayerContext
     public void SetStateTimer(float time)
     {
         stateTimer = time;
+    }
+
+    public void AnimationFinishTrigger()
+    {
+        Debug.Log("[PLAYER_CONTEXT] Animation Finish Trigger Called! triggerCalled: " + triggerCalled);
+        triggerCalled = true;
     }
 }

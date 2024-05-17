@@ -17,12 +17,16 @@ public class PlayerIdleState : IPlayerState
     {
         context.SetAnimation(animBoolName, true);
         context.player.rb.velocity = new Vector2(0, 0);
+        context.triggerCalled = false;
     }
 
     public void Update()
     {
         if (context.HorizontalInput == context.player.facingDir && context.player.IsWallDetected())
             return;
+
+        if (context.PrimaryAttackInput)
+            context.stateMachine.ChangeState(context.player.primaryAttackState);
 
         if (context.JumpInput && context.player.IsGroundDetected())
             context.stateMachine.ChangeState(context.player.jumpState);
