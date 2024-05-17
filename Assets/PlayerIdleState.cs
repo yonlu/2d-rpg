@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.Callbacks;
 using UnityEngine;
 
 public class PlayerIdleState : IPlayerState
@@ -15,17 +16,19 @@ public class PlayerIdleState : IPlayerState
     public void Enter()
     {
         context.SetAnimation(animBoolName, true);
+        context.player.rb.velocity = new Vector2(0, 0);
     }
 
     public void Update()
     {
-        if (context.HorizontalInput != 0) {
-            context.stateMachine.ChangeState(context.player.moveState);
-        }
+        if (context.HorizontalInput == context.player.facingDir && context.player.IsWallDetected())
+            return;
 
-        if (context.JumpInput && context.player.IsGroundDetected()) {
+        if (context.JumpInput && context.player.IsGroundDetected())
             context.stateMachine.ChangeState(context.player.jumpState);
-        }
+
+        if (context.HorizontalInput != 0)
+            context.stateMachine.ChangeState(context.player.moveState);
     }
 
     public void Exit()

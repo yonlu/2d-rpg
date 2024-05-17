@@ -22,20 +22,22 @@ public class PlayerDashState : IPlayerState
 
     public void Update()
     {
-        if (context.player.dashDir == 0) {
+
+        if (!context.player.IsGroundDetected() && context.player.IsWallDetected())
+            context.stateMachine.ChangeState(context.player.wallSlideState);
+
+        if (context.player.dashDir == 0)
             context.player.dashDir = context.player.facingDir;
-        }
 
         context.player.SetVelocity(context.player.dashSpeed * context.player.dashDir, 0);
 
-        if (context.stateTimer < 0) {
+        if (context.stateTimer < 0)
             context.stateMachine.ChangeState(context.player.airState);
-        }
     }
 
     public void Exit()
     {
-        context.player.SetVelocity(context.HorizontalInput * context.player.moveSpeed, context.player.rb.velocity.y);
+        context.player.SetVelocity(0, context.player.rb.velocity.y);
         context.SetAnimation(animBoolName, false);
     }
 

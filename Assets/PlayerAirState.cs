@@ -19,10 +19,14 @@ public class PlayerAirState : IPlayerState
 
     public void Update()
     {
+        if (context.player.IsWallDetected())
+            context.stateMachine.ChangeState(context.player.wallSlideState);
+
         if (context.player.IsGroundDetected())
-        {
             context.stateMachine.ChangeState(context.player.idleState);
-        }
+
+        if (context.HorizontalInput != 0)
+            context.player.SetVelocity(context.player.moveSpeed * .8f * context.HorizontalInput, context.player.rb.velocity.y);
     }
 
     public void Exit()

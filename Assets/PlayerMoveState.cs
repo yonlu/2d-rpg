@@ -21,13 +21,11 @@ public class PlayerMoveState : IPlayerState
     {
         context.player.SetVelocity(context.HorizontalInput * context.player.moveSpeed, context.player.rb.velocity.y);
 
-        if (context.JumpInput) {
+        if (context.JumpInput)
             context.stateMachine.ChangeState(context.player.jumpState);
-        }
 
-        if (context.HorizontalInput == 0) {
+        if (context.HorizontalInput == 0 || context.player.IsWallDetected())
             context.stateMachine.ChangeState(context.player.idleState);
-        }
     }
 
     public void Exit()

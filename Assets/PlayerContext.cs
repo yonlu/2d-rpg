@@ -8,6 +8,7 @@ public class PlayerContext
     public PlayerStateMachine stateMachine;
     public Animator animator;
     public float HorizontalInput { get; private set; }
+    public float VerticalInput { get; private set; }
     public bool JumpInput { get; private set; }
     public bool DashInput { get; private set; }
     public float stateTimer;
@@ -25,8 +26,12 @@ public class PlayerContext
         player.dashCooldownTimer -= Time.deltaTime;
 
         HorizontalInput = Input.GetAxisRaw("Horizontal");
+        VerticalInput = Input.GetAxisRaw("Vertical");
         DashInput = Input.GetKeyDown(KeyCode.LeftShift);
         JumpInput = Input.GetKeyDown(KeyCode.Space);
+
+        if (DashInput && player.IsWallDetected())
+            return;
 
         if (DashInput && player.dashCooldownTimer < 0) {
             player.dashCooldownTimer = player.dashCooldown;

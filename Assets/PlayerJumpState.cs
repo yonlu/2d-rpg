@@ -22,9 +22,7 @@ public class PlayerJumpState : IPlayerState
     public void Update()
     {
         if (context.player.rb.velocity.y < 0)
-        {
             context.stateMachine.ChangeState(context.player.airState);
-        }
     }
 
     public void Exit()
