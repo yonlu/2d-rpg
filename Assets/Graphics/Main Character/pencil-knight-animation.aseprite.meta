@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: 6f393c100f4f24cfb9ad1c10bd0077f0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 64
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638527679246306740
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: pencil-knight-animation_Frame_0
+    originalName: 
+    pivot: {x: 0.61764705, y: -0.033898305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 141
+      width: 34
+      height: 59
+    spriteID: 6895bbeb4b499498abf200c9895c8f26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -7, y: 139}
+  - name: pencil-knight-animation_Frame_1
+    originalName: 
+    pivot: {x: 0.5263158, y: -0.03508772}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 420
+      width: 38
+      height: 57
+    spriteID: 6f5140f5e619a4f0ba2a63808fae1d52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 418}
+  - name: pencil-knight-animation_Frame_2
+    originalName: 
+    pivot: {x: 0.5135135, y: -0.033898305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 353
+      width: 37
+      height: 59
+    spriteID: 4861a56b46b6d4e75a025e2dc73c912a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 351}
+  - name: pencil-knight-animation_Frame_3
+    originalName: 
+    pivot: {x: 0.4516129, y: -0.033898305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 68
+      width: 31
+      height: 59
+    spriteID: 568681bc030f34c41803065f06af8182
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 66}
+  - name: pencil-knight-animation_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -0.033898305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 342
+      width: 32
+      height: 59
+    spriteID: 40091ed9e8ce34e13b8006aa8e60a46f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 342}
+  - name: pencil-knight-animation_Frame_5
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.03508772}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 288
+      width: 39
+      height: 57
+    spriteID: 00a64cad9e0994c63b4ca64e1b6a2dff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 288}
+  - name: pencil-knight-animation_Frame_6
+    originalName: 
+    pivot: {x: 0.5151515, y: -0.035714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 4
+      width: 33
+      height: 56
+    spriteID: 3021fdbf3413445f48e47afe7b5a267f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 4}
+  - name: pencil-knight-animation_Frame_7
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.033898305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 323
+      width: 26
+      height: 59
+    spriteID: dfb9a3f728a204bcfb968be2fbf2e08e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 323}
+  - name: pencil-knight-animation_Frame_8
+    originalName: 
+    pivot: {x: 0.53125, y: -0.12727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 135
+      width: 32
+      height: 55
+    spriteID: 931c201892ab444dab7b1f14e83c1e46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 135}
+  - name: pencil-knight-animation_Frame_9
+    originalName: 
+    pivot: {x: 0.53125, y: -0.12727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 198
+      width: 32
+      height: 55
+    spriteID: cf2368d2de525414aafe7949814fa6df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 198}
+  - name: pencil-knight-animation_Frame_10
+    originalName: 
+    pivot: {x: 0.5625, y: -0.06896552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 409
+      width: 32
+      height: 58
+    spriteID: 72e7300ff709244feb9c4d93af49f49e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 409}
+  - name: pencil-knight-animation_Frame_11
+    originalName: 
+    pivot: {x: 0.43333337, y: -0.12962963}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 261
+      width: 30
+      height: 54
+    spriteID: d43182014d9b4478995d93208e8439b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 261}
+  - name: pencil-knight-animation_Frame_12
+    originalName: 
+    pivot: {x: 0.5882353, y: -0.050847456}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 208
+      width: 34
+      height: 59
+    spriteID: 3912753aa8eba478b89a02d85857d651
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 208}
+  - name: pencil-knight-animation_Frame_13
+    originalName: 
+    pivot: {x: 0.42307693, y: -0.040816326}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 61
+      width: 52
+      height: 49
+    spriteID: b99f76bb731fb4209b129f3e73fee7c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 61}
+  - name: pencil-knight-animation_Frame_14
+    originalName: 
+    pivot: {x: 0.47368422, y: -0.040816326}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 4
+      width: 57
+      height: 49
+    spriteID: 7184e68cd4388419c9955fe72c4109a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 4}
+  - name: pencil-knight-animation_Frame_15
+    originalName: 
+    pivot: {x: 0.42307693, y: -0.040816326}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 118
+      width: 52
+      height: 49
+    spriteID: 7b415fe9623b84ddc903d26217ea1093
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 118}
+  - name: pencil-knight-animation_Frame_16
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.040816326}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 175
+      width: 51
+      height: 49
+    spriteID: dc3459abf83af41b09760c86ba9d780d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 175}
+  - name: pencil-knight-animation_Frame_17
+    originalName: 
+    pivot: {x: 0.3617021, y: -0.041666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 232
+      width: 47
+      height: 48
+    spriteID: 6402b1d311aca42078a06c53a08404c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 232}
+  - name: pencil-knight-animation_Frame_18
+    originalName: 
+    pivot: {x: 0.5510204, y: -0.016393442}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 49
+      height: 61
+    spriteID: bc70ad22d6aef44dc846ea4b3fa732bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: pencil-knight-animation_Frame_19
+    originalName: 
+    pivot: {x: 0.5510204, y: -0.016666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 73
+      width: 49
+      height: 60
+    spriteID: 1da6ff840a58d438e9406633c32cc584
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 73}
+  - name: pencil-knight-animation_Frame_20
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.033898305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 275
+      width: 34
+      height: 59
+    spriteID: 69064e4df711a4d5ea73201b80fbe2d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 275}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1640074420
+    name: pencil-knight-animation
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: pencil-knight-animation_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      spriteId: 6895bbeb4b499498abf200c9895c8f26
+    - name: pencil-knight-animation_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      spriteId: 6f5140f5e619a4f0ba2a63808fae1d52
+    - name: pencil-knight-animation_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      spriteId: 4861a56b46b6d4e75a025e2dc73c912a
+    - name: pencil-knight-animation_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      spriteId: 568681bc030f34c41803065f06af8182
+    - name: pencil-knight-animation_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 2
+        width: 32
+        height: 59
+      spriteId: 40091ed9e8ce34e13b8006aa8e60a46f
+    - name: pencil-knight-animation_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 2
+        width: 39
+        height: 57
+      spriteId: 00a64cad9e0994c63b4ca64e1b6a2dff
+    - name: pencil-knight-animation_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 2
+        width: 33
+        height: 56
+      spriteId: 3021fdbf3413445f48e47afe7b5a267f
+    - name: pencil-knight-animation_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 2
+        width: 26
+        height: 59
+      spriteId: dfb9a3f728a204bcfb968be2fbf2e08e
+    - name: pencil-knight-animation_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 7
+        width: 32
+        height: 55
+      spriteId: 931c201892ab444dab7b1f14e83c1e46
+    - name: pencil-knight-animation_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 7
+        width: 32
+        height: 55
+      spriteId: cf2368d2de525414aafe7949814fa6df
+    - name: pencil-knight-animation_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 4
+        width: 32
+        height: 58
+      spriteId: 72e7300ff709244feb9c4d93af49f49e
+    - name: pencil-knight-animation_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 19
+        y: 7
+        width: 30
+        height: 54
+      spriteId: d43182014d9b4478995d93208e8439b0
+    - name: pencil-knight-animation_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 3
+        width: 34
+        height: 59
+      spriteId: 3912753aa8eba478b89a02d85857d651
+    - name: pencil-knight-animation_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 2
+        width: 52
+        height: 49
+      spriteId: b99f76bb731fb4209b129f3e73fee7c9
+    - name: pencil-knight-animation_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 5
+        y: 2
+        width: 57
+        height: 49
+      spriteId: 7184e68cd4388419c9955fe72c4109a3
+    - name: pencil-knight-animation_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 2
+        width: 52
+        height: 49
+      spriteId: 7b415fe9623b84ddc903d26217ea1093
+    - name: pencil-knight-animation_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 2
+        width: 51
+        height: 49
+      spriteId: dc3459abf83af41b09760c86ba9d780d
+    - name: pencil-knight-animation_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 2
+        width: 47
+        height: 48
+      spriteId: 6402b1d311aca42078a06c53a08404c2
+    - name: pencil-knight-animation_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 5
+        y: 1
+        width: 49
+        height: 61
+      spriteId: bc70ad22d6aef44dc846ea4b3fa732bf
+    - name: pencil-knight-animation_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 5
+        y: 1
+        width: 49
+        height: 60
+      spriteId: 1da6ff840a58d438e9406633c32cc584
+    - name: pencil-knight-animation_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 2
+        width: 34
+        height: 59
+      spriteId: 69064e4df711a4d5ea73201b80fbe2d2
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 64}

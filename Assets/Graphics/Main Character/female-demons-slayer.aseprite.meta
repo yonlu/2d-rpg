@@ -1,0 +1,7309 @@
+fileFormatVersion: 2
+guid: 7ca390aa49e9a4c92829bc811ede6234
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 50
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638522283347866510
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: female-demons-slayer_Frame_0
+    originalName: 
+    pivot: {x: 0.66666675, y: -0.3740458}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 2479
+      width: 132
+      height: 131
+    spriteID: a8cef623015f9400ea6bf0baacda6b63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 997, y: 2430}
+  - name: female-demons-slayer_Frame_1
+    originalName: 
+    pivot: {x: 0.66666675, y: -0.3712121}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 1489
+      width: 132
+      height: 132
+    spriteID: 625c317366e294fd08e23662e3637c52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 997, y: 1440}
+  - name: female-demons-slayer_Frame_2
+    originalName: 
+    pivot: {x: 0.6717558, y: -0.36842105}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 1909
+      width: 131
+      height: 133
+    spriteID: bada93809818843c9b33aa2e2d4f0148
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 997, y: 1860}
+  - name: female-demons-slayer_Frame_3
+    originalName: 
+    pivot: {x: 0.6717558, y: -0.3712121}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 2618
+      width: 131
+      height: 132
+    spriteID: 0f7099eebe5d343ffae41f4e57544c65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 997, y: 2569}
+  - name: female-demons-slayer_Frame_4
+    originalName: 
+    pivot: {x: 0.66666675, y: -0.3740458}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 2758
+      width: 132
+      height: 131
+    spriteID: 099ab28e647b94ed9b5a517210366cfd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 997, y: 2709}
+  - name: female-demons-slayer_Frame_5
+    originalName: 
+    pivot: {x: 0.66666675, y: -0.3712121}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 1629
+      width: 132
+      height: 132
+    spriteID: e282002a9833f4f8c9c10076fc872972
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 997, y: 1580}
+  - name: female-demons-slayer_Frame_6
+    originalName: 
+    pivot: {x: 0.66666675, y: -0.36842105}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 1226
+      width: 132
+      height: 133
+    spriteID: 5cd5cfda8020e41aa8e52ff0dcec8dd2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 997, y: 1177}
+  - name: female-demons-slayer_Frame_7
+    originalName: 
+    pivot: {x: 0.66666675, y: -0.3712121}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 1769
+      width: 132
+      height: 132
+    spriteID: 29e622e04e4334dbfaab08df23e74518
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 997, y: 1720}
+  - name: female-demons-slayer_Frame_8
+    originalName: 
+    pivot: {x: 0.66666675, y: -0.3740458}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 2897
+      width: 132
+      height: 131
+    spriteID: 6a8082ef2f7594f28b7b76faadb8bc99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 997, y: 2848}
+  - name: female-demons-slayer_Frame_9
+    originalName: 
+    pivot: {x: 0.7071429, y: -0.37984496}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 127
+      width: 140
+      height: 129
+    spriteID: 260246ad39e984ff0a44d8efe6bb2c66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 78}
+  - name: female-demons-slayer_Frame_10
+    originalName: 
+    pivot: {x: 0.7071429, y: -0.37692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 3250
+      width: 140
+      height: 130
+    spriteID: 9f9e70eed93d24c798365de82662da97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1200, y: 3201}
+  - name: female-demons-slayer_Frame_11
+    originalName: 
+    pivot: {x: 0.7071429, y: -0.3740458}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 2696
+      width: 140
+      height: 131
+    spriteID: 2da7b89098e744b988dba6b438586e5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1200, y: 2647}
+  - name: female-demons-slayer_Frame_12
+    originalName: 
+    pivot: {x: 0.7071429, y: -0.37692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 3388
+      width: 140
+      height: 130
+    spriteID: d9ffc90e834f046ba82961dd4d667c94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1200, y: 3339}
+  - name: female-demons-slayer_Frame_13
+    originalName: 
+    pivot: {x: 0.6174497, y: -0.37692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 372
+      width: 149
+      height: 130
+    spriteID: 32cffe2ae0f134d4c866fb9f526af6e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1193, y: 323}
+  - name: female-demons-slayer_Frame_14
+    originalName: 
+    pivot: {x: 0.6760564, y: -0.390625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 3664
+      width: 142
+      height: 128
+    spriteID: 9d4934ab93cf94936bae9b420aa73f31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1197, y: 3614}
+  - name: female-demons-slayer_Frame_15
+    originalName: 
+    pivot: {x: 0.6830986, y: -0.37209305}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 3113
+      width: 142
+      height: 129
+    spriteID: e61a7cdfbfbc14775a70c56e16818bd9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1198, y: 3065}
+  - name: female-demons-slayer_Frame_16
+    originalName: 
+    pivot: {x: 0.6666667, y: -0.3692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 1865
+      width: 144
+      height: 130
+    spriteID: 0f3faa60d860745ad85d0a2116c96d14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1197, y: 1817}
+  - name: female-demons-slayer_Frame_17
+    originalName: 
+    pivot: {x: 0.6312057, y: -0.36641222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 2275
+      width: 141
+      height: 131
+    spriteID: f421a86869d63438b8b2e858d481d47c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1190, y: 2227}
+  - name: female-demons-slayer_Frame_18
+    originalName: 
+    pivot: {x: 0.58450705, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 1725
+      width: 142
+      height: 132
+    spriteID: c89fc95850d6d4a8fbed38267a050784
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1184, y: 1677}
+  - name: female-demons-slayer_Frame_19
+    originalName: 
+    pivot: {x: 0.5766871, y: -0.37692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 1310
+      width: 163
+      height: 130
+    spriteID: 3a2c25935d56346bfa2541ed1828fefc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 689, y: 1261}
+  - name: female-demons-slayer_Frame_20
+    originalName: 
+    pivot: {x: 0.5614035, y: -0.37984496}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 3391
+      width: 171
+      height: 129
+    spriteID: f59d4483e31304248bb57023054eef9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 3342}
+  - name: female-demons-slayer_Frame_21
+    originalName: 
+    pivot: {x: 0.5597484, y: -0.36641222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 1782
+      width: 159
+      height: 131
+    spriteID: 77a2e9de3b60b454f8525f23b990e2d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 684, y: 1734}
+  - name: female-demons-slayer_Frame_22
+    originalName: 
+    pivot: {x: 0.55704695, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 3654
+      width: 149
+      height: 132
+    spriteID: cafe6296a12e44e72a192ce9cf3e9bce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 678, y: 3606}
+  - name: female-demons-slayer_Frame_23
+    originalName: 
+    pivot: {x: 1.0294118, y: -0.390625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 979
+      y: 1627
+      width: 102
+      height: 128
+    spriteID: dec97ecbdaa0d40de9e5c1ba9ec6325c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 890, y: 1577}
+  - name: female-demons-slayer_Frame_24
+    originalName: 
+    pivot: {x: 1.0194174, y: -0.3875969}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 979
+      y: 1215
+      width: 103
+      height: 129
+    spriteID: 334610172b1ec4d5db7d6c23e0062f1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 890, y: 1165}
+  - name: female-demons-slayer_Frame_25
+    originalName: 
+    pivot: {x: 1.3125, y: -0.3846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 698
+      y: 1523
+      width: 80
+      height: 130
+    spriteID: a2c36ce3f0f8a4457922a3e63c54ecd9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 609, y: 1473}
+  - name: female-demons-slayer_Frame_26
+    originalName: 
+    pivot: {x: 1.0288461, y: -0.3875969}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 979
+      y: 1078
+      width: 104
+      height: 129
+    spriteID: 3dc09df88f8a24e0282287c300f1aaab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 892, y: 1028}
+  - name: female-demons-slayer_Frame_27
+    originalName: 
+    pivot: {x: 1.0388349, y: -0.390625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 979
+      y: 1352
+      width: 103
+      height: 128
+    spriteID: b44a791842e8c4beb99cf3b5f47cecc5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 892, y: 1302}
+  - name: female-demons-slayer_Frame_28
+    originalName: 
+    pivot: {x: 1.4, y: -0.39370078}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 687
+      y: 1950
+      width: 75
+      height: 127
+    spriteID: fc2b6fc00b84a47b5a6fa08408b923d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 598, y: 1900}
+  - name: female-demons-slayer_Frame_29
+    originalName: 
+    pivot: {x: 0.84732825, y: -0.3740458}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 3176
+      width: 131
+      height: 131
+    spriteID: 573ff829685ec490db3bad657d80494c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1020, y: 3127}
+  - name: female-demons-slayer_Frame_30
+    originalName: 
+    pivot: {x: 0.8934911, y: -0.45045045}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 1606
+      width: 169
+      height: 111
+    spriteID: b4b5408fc20cd4e1989f35c656980ea0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1252, y: 1556}
+  - name: female-demons-slayer_Frame_31
+    originalName: 
+    pivot: {x: 1.055556, y: -0.8131868}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3999
+      width: 162
+      height: 91
+    spriteID: d398571b6224843f39d4955b53db15ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -19, y: 3925}
+  - name: female-demons-slayer_Frame_32
+    originalName: 
+    pivot: {x: 1.0709677, y: -0.872093}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1807
+      y: 4
+      width: 155
+      height: 86
+    spriteID: 626c02a4ef54c4c469f10dee2b9848b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1779, y: -71}
+  - name: female-demons-slayer_Frame_33
+    originalName: 
+    pivot: {x: 0.6458334, y: -0.54330707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 254
+      width: 240
+      height: 127
+    spriteID: dc91373ceb69e4f0080c66e3cc318076
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 437, y: 185}
+  - name: female-demons-slayer_Frame_34
+    originalName: 
+    pivot: {x: 0.71794873, y: -0.49612406}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 389
+      width: 234
+      height: 129
+    spriteID: f526ea7ade7be465eb978d7059c0dbbf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 450, y: 325}
+  - name: female-demons-slayer_Frame_35
+    originalName: 
+    pivot: {x: 1.2013423, y: -0.5471698}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 1285
+      width: 149
+      height: 106
+    spriteID: 95b2edf5a974f43edbd40bd2f7781f41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1632, y: 1227}
+  - name: female-demons-slayer_Frame_36
+    originalName: 
+    pivot: {x: 0.7251908, y: -0.42735043}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 1774
+      width: 131
+      height: 117
+    spriteID: 4574d40b41c444249b72e82c7bbe822c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1548, y: 1724}
+  - name: female-demons-slayer_Frame_37
+    originalName: 
+    pivot: {x: 1.2898551, y: -0.46212122}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 979
+      y: 2922
+      width: 69
+      height: 132
+    spriteID: 9c5a8fb9a273641eaa59468bbc597883
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 874, y: 2861}
+  - name: female-demons-slayer_Frame_38
+    originalName: 
+    pivot: {x: 1.1973684, y: -0.73275864}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 700
+      y: 2543
+      width: 76
+      height: 116
+    spriteID: 066625c1e79424cc584695646e99da0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 597, y: 2458}
+  - name: female-demons-slayer_Frame_39
+    originalName: 
+    pivot: {x: 0.93518513, y: -0.44360903}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 2903
+      width: 108
+      height: 133
+    spriteID: 07082742476c74ce4806e6712d4d60cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1554, y: 2844}
+  - name: female-demons-slayer_Frame_40
+    originalName: 
+    pivot: {x: 0.93518513, y: -0.4402985}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 673
+      y: 2675
+      width: 108
+      height: 134
+    spriteID: 147757debe8914513b3400ec105d2029
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 580, y: 2616}
+  - name: female-demons-slayer_Frame_41
+    originalName: 
+    pivot: {x: 0.7251908, y: -0.42735043}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 1899
+      width: 131
+      height: 117
+    spriteID: 5dc61822b2d3c4711b8cad0f4ecdbe84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1548, y: 1849}
+  - name: female-demons-slayer_Frame_42
+    originalName: 
+    pivot: {x: 0.6513158, y: -0.74999994}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 4
+      width: 152
+      height: 108
+    spriteID: 53669a132cc5b4a07bb63f8f98b22df9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1552, y: -77}
+  - name: female-demons-slayer_Frame_43
+    originalName: 
+    pivot: {x: 1.2638888, y: -0.35251796}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 2674
+      width: 144
+      height: 139
+    spriteID: 7ce343a508d6c461aa0dbdc1ca99a914
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 777, y: 2625}
+  - name: female-demons-slayer_Frame_44
+    originalName: 
+    pivot: {x: 0.47368422, y: -0.43010756}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 430
+      width: 209
+      height: 186
+    spriteID: bb10815bf65664ca29ec6abb6986241a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -91, y: 350}
+  - name: female-demons-slayer_Frame_45
+    originalName: 
+    pivot: {x: 0.6346154, y: -0.17467248}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 995
+      width: 156
+      height: 229
+    spriteID: 334abd8f703394764862fd8b647f0634
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -91, y: 955}
+  - name: female-demons-slayer_Frame_46
+    originalName: 
+    pivot: {x: 1.076087, y: -0.48648646}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 3315
+      width: 92
+      height: 185
+    spriteID: 959f2b3aa407f43c2a8bcf63118fde1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1008, y: 3225}
+  - name: female-demons-slayer_Frame_47
+    originalName: 
+    pivot: {x: 1.2375, y: -0.4827586}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1203
+      y: 3315
+      width: 80
+      height: 174
+    spriteID: a56f0407d12e64af6b1baf59b7801f06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1108, y: 3231}
+  - name: female-demons-slayer_Frame_48
+    originalName: 
+    pivot: {x: 0.7603306, y: -0.39200002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 2024
+      width: 121
+      height: 125
+    spriteID: 5a417e0cf43a2479db4c0e8ffe223b18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1545, y: 1975}
+  - name: female-demons-slayer_Frame_49
+    originalName: 
+    pivot: {x: 1.0384616, y: -0.3888889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 3794
+      width: 156
+      height: 126
+    spriteID: 6f06f6b4a3e154e90b2868c414bd26de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 757, y: 3745}
+  - name: female-demons-slayer_Frame_50
+    originalName: 
+    pivot: {x: 0.40116277, y: -0.39370078}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 3813
+      width: 172
+      height: 127
+    spriteID: eb08930e1b593455382105ae8bdccf72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 3763}
+  - name: female-demons-slayer_Frame_51
+    originalName: 
+    pivot: {x: 0.40229887, y: -0.34013605}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 637
+      width: 174
+      height: 147
+    spriteID: fd10a8baddec044c3b1613a612ca113d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 587}
+  - name: female-demons-slayer_Frame_52
+    originalName: 
+    pivot: {x: 0.46710527, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 2984
+      width: 152
+      height: 150
+    spriteID: c0790bb2939e445e79c53bb1a4c68976
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 2934}
+  - name: female-demons-slayer_Frame_53
+    originalName: 
+    pivot: {x: 0.8701298, y: -0.32467532}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 888
+      y: 720
+      width: 77
+      height: 154
+    spriteID: 41cc462761db24bcaa9478bfa626c88e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 761, y: 670}
+  - name: female-demons-slayer_Frame_54
+    originalName: 
+    pivot: {x: 0.82644635, y: -0.32885906}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 657
+      y: 2092
+      width: 121
+      height: 149
+    spriteID: 129f1c36d4dc34cebb2b9576ce9dcb1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 563, y: 2043}
+  - name: female-demons-slayer_Frame_55
+    originalName: 
+    pivot: {x: 0.4829932, y: -0.3888889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 2141
+      width: 147
+      height: 126
+    spriteID: b83a5f9ad613248c78e8d0d64bc70f6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1172, y: 2092}
+  - name: female-demons-slayer_Frame_56
+    originalName: 
+    pivot: {x: 0.56910574, y: -0.38582674}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 1399
+      width: 123
+      height: 127
+    spriteID: c9cd258e084544b4e80899eb48e0fe03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1523, y: 1350}
+  - name: female-demons-slayer_Frame_57
+    originalName: 
+    pivot: {x: 0.80232555, y: -0.37984496}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 687
+      y: 3115
+      width: 86
+      height: 129
+    spriteID: bd7d830d69e02402a8ad5a95f45480e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 562, y: 3066}
+  - name: female-demons-slayer_Frame_58
+    originalName: 
+    pivot: {x: 1.0451128, y: -0.3740458}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 2050
+      width: 133
+      height: 131
+    spriteID: a18e9e45d09c542c5b4b961cead75839
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1048, y: 2001}
+  - name: female-demons-slayer_Frame_59
+    originalName: 
+    pivot: {x: 1.0430107, y: -0.3223684}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 1039
+      width: 186
+      height: 152
+    spriteID: 926a09bd492e84bd4b55af43909a0862
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 476, y: 990}
+  - name: female-demons-slayer_Frame_60
+    originalName: 
+    pivot: {x: 1.0292398, y: -0.32666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 356
+      width: 171
+      height: 150
+    spriteID: 63645de0fb85a4fd2a9cbc3553e5e6a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 307}
+  - name: female-demons-slayer_Frame_61
+    originalName: 
+    pivot: {x: 0.3532338, y: -0.2923077}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 3252
+      width: 201
+      height: 130
+    spriteID: 19b001b205deb49a6ac052f142064502
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 353, y: 3214}
+  - name: female-demons-slayer_Frame_62
+    originalName: 
+    pivot: {x: 0.37566137, y: -0.3508772}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 341
+      width: 189
+      height: 114
+    spriteID: 766179cd54cc84847959ddf04e025b5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 666, y: 301}
+  - name: female-demons-slayer_Frame_63
+    originalName: 
+    pivot: {x: 0.3870968, y: -0.34482762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 217
+      width: 186
+      height: 116
+    spriteID: 03318fc5563a748aeac109257f2386a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 667, y: 177}
+  - name: female-demons-slayer_Frame_64
+    originalName: 
+    pivot: {x: 0.7603306, y: -0.4032258}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 2157
+      width: 121
+      height: 124
+    spriteID: a82623775a81d455c86080cee3693fa6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1545, y: 2107}
+  - name: female-demons-slayer_Frame_65
+    originalName: 
+    pivot: {x: 1.077922, y: -0.27419356}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 1186
+      width: 154
+      height: 124
+    spriteID: e47ba548aac974034a494bf08d37fbf7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1267, y: 1152}
+  - name: female-demons-slayer_Frame_66
+    originalName: 
+    pivot: {x: 0.40094337, y: -0.4434783}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 1875
+      width: 212
+      height: 115
+    spriteID: cf99b622d068548f3879339272e28faa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 123, y: 1824}
+  - name: female-demons-slayer_Frame_67
+    originalName: 
+    pivot: {x: 0.42000005, y: -0.425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 2110
+      width: 200
+      height: 120
+    spriteID: f17ada199b943476c87a5f6baa795eff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 2059}
+  - name: female-demons-slayer_Frame_68
+    originalName: 
+    pivot: {x: 0.4615385, y: -0.4237288}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 594
+      width: 182
+      height: 118
+    spriteID: 4a9dfe5600ba74e5bbc3888bfd4fddae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 679, y: 544}
+  - name: female-demons-slayer_Frame_69
+    originalName: 
+    pivot: {x: 0.8571429, y: -0.41803277}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 979
+      y: 2703
+      width: 98
+      height: 122
+    spriteID: 878aac59b364b4e4f9b1f1629667d49c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 869, y: 2652}
+  - name: female-demons-slayer_Frame_70
+    originalName: 
+    pivot: {x: 0.60465115, y: -0.2586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 526
+      width: 258
+      height: 116
+    spriteID: 18d7234c330dd4a7dafe37aa08a7251c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 496}
+  - name: female-demons-slayer_Frame_71
+    originalName: 
+    pivot: {x: 0.8705882, y: -0.1935484}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 1650
+      width: 170
+      height: 124
+    spriteID: 8b981952cf3d34d5095c624b48e50172
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 743, y: 1626}
+  - name: female-demons-slayer_Frame_72
+    originalName: 
+    pivot: {x: 0.85975605, y: -0.2820513}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 908
+      width: 164
+      height: 117
+    spriteID: 5a585a723af954e04a321710b9c8c466
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1242, y: 875}
+  - name: female-demons-slayer_Frame_73
+    originalName: 
+    pivot: {x: 0.84732825, y: -0.37096775}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 362
+      width: 131
+      height: 124
+    spriteID: cf9480d681733483b96b008759e67073
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1564, y: 316}
+  - name: female-demons-slayer_Frame_74
+    originalName: 
+    pivot: {x: 0.7967479, y: -0.19858156}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 2330
+      width: 123
+      height: 141
+    spriteID: 8e1903cf3d3074cc19bf23cc3c7a44fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1007, y: 2302}
+  - name: female-demons-slayer_Frame_75
+    originalName: 
+    pivot: {x: 0.5275229, y: -0.34265733}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2133
+      width: 218
+      height: 143
+    spriteID: cb580a1896f134873bf948691537b486
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -75, y: 2084}
+  - name: female-demons-slayer_Frame_76
+    originalName: 
+    pivot: {x: 0.92024535, y: -0.31012657}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 3856
+      width: 163
+      height: 158
+    spriteID: 37367f7f17b59437fbcdff7a34fce22d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 432, y: 3807}
+  - name: female-demons-slayer_Frame_77
+    originalName: 
+    pivot: {x: 0.9151515, y: -0.3245033}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 1212
+      width: 165
+      height: 151
+    spriteID: 58902ce183b5941c2a6e54c4d1e02ce2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 1163}
+  - name: female-demons-slayer_Frame_78
+    originalName: 
+    pivot: {x: 0.30392158, y: -0.26857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1232
+      width: 204
+      height: 175
+    spriteID: 21560814e24d84b289022c4c6452c9a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -128, y: 1185}
+  - name: female-demons-slayer_Frame_79
+    originalName: 
+    pivot: {x: 0.34999996, y: -0.26373628}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1589
+      width: 180
+      height: 182
+    spriteID: c6b42ddd57ebc4191a4a5396dbae44e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -127, y: 1541}
+  - name: female-demons-slayer_Frame_80
+    originalName: 
+    pivot: {x: 0.46710527, y: -0.2526316}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3310
+      width: 152
+      height: 190
+    spriteID: 1c6383ff4232c43f2a5d4c5fab39cf1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -119, y: 3262}
+  - name: female-demons-slayer_Frame_81
+    originalName: 
+    pivot: {x: 1.3207548, y: -0.13548388}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 662
+      y: 1787
+      width: 106
+      height: 155
+    spriteID: af53bd95ed11b47b085fceb4441df873
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 608, y: 1766}
+  - name: female-demons-slayer_Frame_82
+    originalName: 
+    pivot: {x: 1.34, y: -0.35114503}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 979
+      y: 1488
+      width: 100
+      height: 131
+    spriteID: d353951bf4ad94b82a83aaafc4748785
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 919, y: 1442}
+  - name: female-demons-slayer_Frame_83
+    originalName: 
+    pivot: {x: 1.3505155, y: -0.3712121}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 979
+      y: 1763
+      width: 97
+      height: 132
+    spriteID: b05c11db8f93d4a2986b327554134903
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 1714}
+  - name: female-demons-slayer_Frame_84
+    originalName: 
+    pivot: {x: 0.97315437, y: -0.38582674}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 1471
+      width: 149
+      height: 127
+    spriteID: 0411c1d5fe69744099b0e8318e7efe06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1246, y: 1422}
+  - name: female-demons-slayer_Frame_85
+    originalName: 
+    pivot: {x: 0.37433156, y: -0.27218935}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1956
+      width: 187
+      height: 169
+    spriteID: e64de995fdfa247d7b987fec00026de0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -120, y: 1910}
+  - name: female-demons-slayer_Frame_86
+    originalName: 
+    pivot: {x: 0.3168317, y: -0.27642277}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 1510
+      width: 202
+      height: 123
+    spriteID: 759a3f25a85b547e5a557da6316e1cde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 1476}
+  - name: female-demons-slayer_Frame_87
+    originalName: 
+    pivot: {x: 0.3657143, y: -0.28455287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 463
+      width: 175
+      height: 123
+    spriteID: 31fbcb9bc39a54bcba23b9cf98c5187d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 659, y: 428}
+  - name: female-demons-slayer_Frame_88
+    originalName: 
+    pivot: {x: 0.27601808, y: -0.20245399}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 185
+      width: 221
+      height: 163
+    spriteID: 01e1c509c52e241f5862f640daa00d6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 152}
+  - name: female-demons-slayer_Frame_89
+    originalName: 
+    pivot: {x: 0.26406926, y: -0.31132072}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 1761
+      width: 231
+      height: 106
+    spriteID: bfba39381299c49718926db327abea92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 1728}
+  - name: female-demons-slayer_Frame_90
+    originalName: 
+    pivot: {x: 0.2772727, y: -0.3084112}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 2395
+      width: 220
+      height: 107
+    spriteID: ddb5bcaa2c5344872bbdd0b993d3e7f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 2362}
+  - name: female-demons-slayer_Frame_91
+    originalName: 
+    pivot: {x: 1.0098039, y: -0.37593985}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 979
+      y: 937
+      width: 102
+      height: 133
+    spriteID: 80a02365a6d7c430b9c9cc9a274f7ba1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 888, y: 887}
+  - name: female-demons-slayer_Frame_92
+    originalName: 
+    pivot: {x: 0.84472054, y: -0.33557045}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 2238
+      width: 161
+      height: 149
+    spriteID: 6eaaef65e5de04db386938f55fb24864
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 2188}
+  - name: female-demons-slayer_Frame_93
+    originalName: 
+    pivot: {x: 0.8484849, y: -0.3267974}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 930
+      width: 165
+      height: 153
+    spriteID: 4b3ffa41af0de406eaf33f1d949a216c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 880}
+  - name: female-demons-slayer_Frame_94
+    originalName: 
+    pivot: {x: 0.44491524, y: -0.15028901}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 4
+      width: 236
+      height: 173
+    spriteID: f05204628f04a496c95c52dba9ffc255
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: -22}
+  - name: female-demons-slayer_Frame_95
+    originalName: 
+    pivot: {x: 0.81761, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2646
+      width: 159
+      height: 189
+    spriteID: e16757b88ad9c4fda8a9faaba778353f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -60, y: 2646}
+  - name: female-demons-slayer_Frame_96
+    originalName: 
+    pivot: {x: 0.8113208, y: -0.15853658}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 3390
+      width: 159
+      height: 164
+    spriteID: 904b17a7002bf46c5a515d5aa5f1a4f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 411, y: 3364}
+  - name: female-demons-slayer_Frame_97
+    originalName: 
+    pivot: {x: 1.256, y: -0.25694442}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 538
+      width: 125
+      height: 144
+    spriteID: a4090772663cf48c0a877f7443f1c20e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1066, y: 501}
+  - name: female-demons-slayer_Frame_98
+    originalName: 
+    pivot: {x: 0.9057592, y: -0.5263158}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 3948
+      width: 191
+      height: 114
+    spriteID: 27865f6e9cc904a8fa332093a0edab5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 3888}
+  - name: female-demons-slayer_Frame_99
+    originalName: 
+    pivot: {x: 0.53363234, y: -0.53982306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 1091
+      width: 223
+      height: 113
+    spriteID: 11e3b933a89474dba9cd1536bc70bdcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 1030}
+  - name: female-demons-slayer_Frame_100
+    originalName: 
+    pivot: {x: 0.17488788, y: -0.51304346}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 514
+      width: 223
+      height: 115
+    spriteID: ddaaea274078045f380fe73a8808aaa0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 455}
+  - name: female-demons-slayer_Frame_101
+    originalName: 
+    pivot: {x: 0.17094019, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 1661
+      width: 234
+      height: 118
+    spriteID: 67bc6bede0b674ed7b52abd2709cdffa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 322, y: 1602}
+  - name: female-demons-slayer_Frame_102
+    originalName: 
+    pivot: {x: 0.17241381, y: -0.48333332}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 1395
+      width: 232
+      height: 120
+    spriteID: 81935c3d220de425b88c902d0e7327c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 322, y: 1337}
+  - name: female-demons-slayer_Frame_103
+    originalName: 
+    pivot: {x: 1.125, y: -0.35766423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 3149
+      width: 104
+      height: 137
+    spriteID: f211400901dbd4e75a09dc0cd77b37a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1570, y: 3100}
+  - name: female-demons-slayer_Frame_104
+    originalName: 
+    pivot: {x: 0.8699187, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 658
+      y: 3699
+      width: 123
+      height: 147
+    spriteID: 42757de5bc7d04a0499045c20b8d16b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 571, y: 3650}
+  - name: female-demons-slayer_Frame_105
+    originalName: 
+    pivot: {x: 0.5337838, y: -0.37692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 770
+      width: 148
+      height: 130
+    spriteID: db5a5d1a90fc44d4a856edabcc96807a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1180, y: 721}
+  - name: female-demons-slayer_Frame_106
+    originalName: 
+    pivot: {x: 0.325, y: -0.1780822}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3156
+      width: 200
+      height: 146
+    spriteID: c7f9cc511c0854f3aa517bdd6546fe3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -125, y: 3130}
+  - name: female-demons-slayer_Frame_107
+    originalName: 
+    pivot: {x: 0.3333333, y: -0.18243243}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3000
+      width: 201
+      height: 148
+    spriteID: ca089f4f45bdb4ff5b070a0862cb20e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -123, y: 2973}
+  - name: female-demons-slayer_Frame_108
+    originalName: 
+    pivot: {x: 0.33830848, y: -0.18120804}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2843
+      width: 201
+      height: 149
+    spriteID: cf62e4f543d1b4ae29e5baf75f3e13c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -122, y: 2816}
+  - name: female-demons-slayer_Frame_109
+    originalName: 
+    pivot: {x: 0.65384614, y: -0.15189874}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 643
+      y: 3390
+      width: 130
+      height: 158
+    spriteID: ba7370386a0a04874aa235968597e63d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 534, y: 3366}
+  - name: female-demons-slayer_Frame_110
+    originalName: 
+    pivot: {x: 0.9183674, y: -0.07065217}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 979
+      y: 594
+      width: 98
+      height: 184
+    spriteID: aa9171e62dab448d38c00ae2a82102f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 875, y: 581}
+  - name: female-demons-slayer_Frame_111
+    originalName: 
+    pivot: {x: 1.2637362, y: -0.038297877}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 720
+      width: 91
+      height: 235
+    spriteID: 47c3e3364e54c423d91b84832c4010ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 710, y: 711}
+  - name: female-demons-slayer_Frame_112
+    originalName: 
+    pivot: {x: 0.78, y: -0.08510638}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 1199
+      width: 150
+      height: 188
+    spriteID: 282da928c08a448bca69db10aee049eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 399, y: 1183}
+  - name: female-demons-slayer_Frame_113
+    originalName: 
+    pivot: {x: 1.011111, y: -0.27848104}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3680
+      width: 180
+      height: 158
+    spriteID: 6046175b40d3145cd8ca8d030aee3402
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -8, y: 3636}
+  - name: female-demons-slayer_Frame_114
+    originalName: 
+    pivot: {x: 0.6311111, y: -0.42519683}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 904
+      width: 225
+      height: 127
+    spriteID: badede4557dc64c1aa5cbf2981124244
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 850}
+  - name: female-demons-slayer_Frame_115
+    originalName: 
+    pivot: {x: 0.6085271, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 125
+      width: 258
+      height: 121
+    spriteID: ae6178ccde8a04618a43c262a0bc84a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 439, y: 81}
+  - name: female-demons-slayer_Frame_116
+    originalName: 
+    pivot: {x: 0.80319154, y: -0.28688526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 2854
+      width: 188
+      height: 122
+    spriteID: 77308b7c3b15145ff8a542594f6127cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 2819}
+  - name: female-demons-slayer_Frame_117
+    originalName: 
+    pivot: {x: 0.7934783, y: -0.3826087}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 4
+      width: 184
+      height: 115
+    spriteID: 206581aa6b3e9479ea117ee88812d6a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1055, y: -40}
+  - name: female-demons-slayer_Frame_118
+    originalName: 
+    pivot: {x: 1.2978724, y: -0.15231788}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 3294
+      width: 94
+      height: 151
+    spriteID: 4c8b28be73f9e411ab72c09e31637498
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1575, y: 3271}
+  - name: female-demons-slayer_Frame_119
+    originalName: 
+    pivot: {x: 1.4, y: -0.2758621}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 901
+      y: 963
+      width: 70
+      height: 145
+    spriteID: efc2d4899a1734395a747fd841783e93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 805, y: 923}
+  - name: female-demons-slayer_Frame_120
+    originalName: 
+    pivot: {x: 1.361111, y: -0.2758621}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 392
+      y: 2984
+      width: 72
+      height: 145
+    spriteID: 73a05de5899d744baa27cae7547b7768
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 296, y: 2944}
+  - name: female-demons-slayer_Frame_121
+    originalName: 
+    pivot: {x: 1.2537314, y: -0.35766423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 2551
+      width: 134
+      height: 137
+    spriteID: 984ca8e88a5874bc0b2ac5e890d771fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1269, y: 2502}
+  - name: female-demons-slayer_Frame_122
+    originalName: 
+    pivot: {x: 1.0769231, y: -0.24019608}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 963
+      width: 104
+      height: 204
+    spriteID: 34c477c6097254e01a0699852a7ec481
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 707, y: 914}
+  - name: female-demons-slayer_Frame_123
+    originalName: 
+    pivot: {x: 0.57647055, y: -0.26775956}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2284
+      width: 170
+      height: 183
+    spriteID: 9ad49418e5c014b7583e7635a374c460
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -92, y: 2235}
+  - name: female-demons-slayer_Frame_124
+    originalName: 
+    pivot: {x: 0.5, y: -0.337931}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3846
+      width: 196
+      height: 145
+    spriteID: a5d1fa5570cb745dd85cc81d9c9e55fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -92, y: 3797}
+  - name: female-demons-slayer_Frame_125
+    originalName: 
+    pivot: {x: 0.7042254, y: -0.3828125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 3800
+      width: 142
+      height: 128
+    spriteID: 71bdcd181f10b48b18c922eaaf956648
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1201, y: 3751}
+  - name: female-demons-slayer_Frame_126
+    originalName: 
+    pivot: {x: 0.6993007, y: -0.37984496}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 2414
+      width: 143
+      height: 129
+    spriteID: b2e2fcc53750644e3824969b12b7c85d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1201, y: 2365}
+  - name: female-demons-slayer_Frame_127
+    originalName: 
+    pivot: {x: 0.6993007, y: -0.37692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 2003
+      width: 143
+      height: 130
+    spriteID: 43566eb3e9fbe4d6f93f469497552989
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1201, y: 1954}
+  - name: female-demons-slayer_Frame_128
+    originalName: 
+    pivot: {x: 0.68027216, y: -0.3740458}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 631
+      width: 147
+      height: 131
+    spriteID: 005e838fbc5774308a218130e6f70f40
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1201, y: 582}
+  - name: female-demons-slayer_Frame_129
+    originalName: 
+    pivot: {x: 0.71428573, y: -0.3740458}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 2835
+      width: 140
+      height: 131
+    spriteID: c1e6595b364994d9092e45abefd714ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1201, y: 2786}
+  - name: female-demons-slayer_Frame_130
+    originalName: 
+    pivot: {x: 0.76335883, y: -0.3712121}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 3036
+      width: 131
+      height: 132
+    spriteID: 6c453c7fb7a514dd583b0cfd2aa2e744
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1009, y: 2987}
+  - name: female-demons-slayer_Frame_131
+    originalName: 
+    pivot: {x: 0.77099234, y: -0.36842105}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 2189
+      width: 131
+      height: 133
+    spriteID: ad053e30023644ceb8ac1c3b0d457cc3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1010, y: 2140}
+  - name: female-demons-slayer_Frame_132
+    originalName: 
+    pivot: {x: 0.7054795, y: -0.36567163}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 3928
+      width: 146
+      height: 134
+    spriteID: 7c19a81ebd99d49839828fa76ec9b587
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 698, y: 3879}
+  - name: female-demons-slayer_Frame_133
+    originalName: 
+    pivot: {x: 0.7054795, y: -0.36296296}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 3511
+      width: 146
+      height: 135
+    spriteID: c74c0816ebb3841f3a0c7fb277f5c5eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 698, y: 3462}
+  - name: female-demons-slayer_Frame_134
+    originalName: 
+    pivot: {x: 0.7054795, y: -0.3602941}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 3097
+      width: 146
+      height: 136
+    spriteID: f13511f66231c4125864a65d61ec5884
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 698, y: 3048}
+  - name: female-demons-slayer_Frame_135
+    originalName: 
+    pivot: {x: 0.7054795, y: -0.35766423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 2821
+      width: 146
+      height: 137
+    spriteID: 075af8d35f367413c91aae40a3af4cea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 698, y: 2772}
+  - name: female-demons-slayer_Frame_136
+    originalName: 
+    pivot: {x: 0.7202797, y: -0.3602941}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 228
+      width: 143
+      height: 136
+    spriteID: 5890143cab0ce4a3498df8eb4d3766f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1204, y: 179}
+  - name: female-demons-slayer_Frame_137
+    originalName: 
+    pivot: {x: 0.76865673, y: -0.36296296}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 3936
+      width: 134
+      height: 135
+    spriteID: ae5384da42d6a48d18526e3e35781322
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1204, y: 3887}
+  - name: female-demons-slayer_Frame_138
+    originalName: 
+    pivot: {x: 0.7744361, y: -0.36567163}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 826
+      width: 133
+      height: 134
+    spriteID: 59bf6644e960044e7a7420364aea44a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1012, y: 777}
+  - name: female-demons-slayer_Frame_139
+    originalName: 
+    pivot: {x: 0.73611104, y: -0.41880342}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 3636
+      width: 144
+      height: 117
+    spriteID: a4ea660fbb65442d98560b15e34a173e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1015, y: 3587}
+  - name: female-demons-slayer_Frame_140
+    originalName: 
+    pivot: {x: 0.8394161, y: -0.41322312}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1502
+      y: 4
+      width: 137
+      height: 121
+    spriteID: dbef14df5649a46d7a9d8db708c5b2e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1423, y: -46}
+  - name: female-demons-slayer_Frame_141
+    originalName: 
+    pivot: {x: 1.0918367, y: -0.19444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 3453
+      width: 98
+      height: 144
+    spriteID: f4131536010d2443ca5c1ad8e60c0712
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1560, y: 3425}
+  - name: female-demons-slayer_Frame_142
+    originalName: 
+    pivot: {x: 1.0854701, y: -0.27868852}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 972
+      y: 463
+      width: 117
+      height: 122
+    spriteID: 050c979708f3b4e5e8acf5e18e11d398
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 905, y: 429}
+  - name: female-demons-slayer_Frame_143
+    originalName: 
+    pivot: {x: 0.8881119, y: -0.7166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 4022
+      width: 143
+      height: 60
+    spriteID: f113f113565d54701b2511c5dbd797c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 409, y: 3979}
+  - name: female-demons-slayer_Frame_144
+    originalName: 
+    pivot: {x: 0.8053097, y: -0.5555555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 979
+      y: 2833
+      width: 113
+      height: 81
+    spriteID: c71036c1cfa1e4903b284b82c5e24956
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 876, y: 2788}
+  - name: female-demons-slayer_Frame_145
+    originalName: 
+    pivot: {x: 0.737705, y: -0.3712121}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 614
+      width: 122
+      height: 132
+    spriteID: efba957074ea241cbb5f082721adf97f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1543, y: 565}
+  - name: female-demons-slayer_Frame_146
+    originalName: 
+    pivot: {x: 0.7291667, y: -0.44247788}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 120
+      width: 144
+      height: 113
+    spriteID: 9333341362ea54443a760ab5cee2a6d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1558, y: 70}
+  - name: female-demons-slayer_Frame_147
+    originalName: 
+    pivot: {x: 0.7291667, y: -0.44642857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 494
+      width: 144
+      height: 112
+    spriteID: 1e4adc2913e2648d0a6d57c544c77d78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1558, y: 444}
+  - name: female-demons-slayer_Frame_148
+    originalName: 
+    pivot: {x: 0.7291667, y: -0.44247788}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 241
+      width: 144
+      height: 113
+    spriteID: aa38e46e55b8044efbb6684f498ee50a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1558, y: 191}
+  - name: female-demons-slayer_Frame_149
+    originalName: 
+    pivot: {x: 0.7291667, y: -0.45045045}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 894
+      width: 144
+      height: 111
+    spriteID: fd2e1f4840db84f138907f55c4819854
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1558, y: 844}
+  - name: female-demons-slayer_Frame_150
+    originalName: 
+    pivot: {x: 0.75, y: -0.4854369}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 2792
+      width: 140
+      height: 103
+    spriteID: 6a3876dc26d3d4f9cb564a75b662935d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1558, y: 2742}
+  - name: female-demons-slayer_Frame_151
+    originalName: 
+    pivot: {x: 1.1764706, y: -0.4715447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 979
+      y: 2310
+      width: 102
+      height: 123
+    spriteID: f1865bb6a20354c09a828e1ae092146e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 905, y: 2252}
+  - name: female-demons-slayer_Frame_152
+    originalName: 
+    pivot: {x: 1.1747572, y: -0.6396397}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 986
+      y: 341
+      width: 103
+      height: 111
+    spriteID: d2e01300ca41e4b04a65ca2be5a4815b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 913, y: 270}
+  - name: female-demons-slayer_Frame_153
+    originalName: 
+    pivot: {x: 1.2, y: -0.421875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 979
+      y: 1903
+      width: 100
+      height: 128
+    spriteID: 44d2dde612b024e198f19f7890707847
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 905, y: 1849}
+  - name: female-demons-slayer_Frame_154
+    originalName: 
+    pivot: {x: 1.2020202, y: -0.4140625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 979
+      y: 2174
+      width: 99
+      height: 128
+    spriteID: fd0cba3aaef1e4a748e42657d87998ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 904, y: 2121}
+  - name: female-demons-slayer_Frame_155
+    originalName: 
+    pivot: {x: 1.1881189, y: -0.49586776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 979
+      y: 2574
+      width: 101
+      height: 121
+    spriteID: 5998ec9ac8d4d4be89e9be756b243c7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 905, y: 2514}
+  - name: female-demons-slayer_Frame_156
+    originalName: 
+    pivot: {x: 1.1747572, y: -0.6545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 983
+      y: 217
+      width: 103
+      height: 110
+    spriteID: 59d31c1051df64f35be317c1d11a3210
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 910, y: 145}
+  - name: female-demons-slayer_Frame_157
+    originalName: 
+    pivot: {x: 1.2, y: -0.44094488}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 979
+      y: 2039
+      width: 100
+      height: 127
+    spriteID: 95ae95f0c118a45ed81d89f65f3b3e14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 905, y: 1983}
+  - name: female-demons-slayer_Frame_158
+    originalName: 
+    pivot: {x: 1.2020202, y: -0.44800004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 979
+      y: 2441
+      width: 99
+      height: 125
+    spriteID: 2a4539e7e2f3a4fcc9810e26beaaaddb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 904, y: 2385}
+  - name: female-demons-slayer_Frame_159
+    originalName: 
+    pivot: {x: 0.6958763, y: -0.42735043}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 3142
+      width: 194
+      height: 117
+    spriteID: f2a951620cfdf4be3a7f799109b64444
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 3092}
+  - name: female-demons-slayer_Frame_160
+    originalName: 
+    pivot: {x: 0.63978493, y: -0.3472222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 2391
+      width: 186
+      height: 144
+    spriteID: 4e67a8bcc2492439bbfe983abb37465a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 401, y: 2341}
+  - name: female-demons-slayer_Frame_161
+    originalName: 
+    pivot: {x: 1.2823529, y: -0.35211268}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1199
+      y: 3898
+      width: 85
+      height: 142
+    spriteID: 9964d4906dbca4bd1a6d836405fcf257
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1114, y: 3848}
+  - name: female-demons-slayer_Frame_162
+    originalName: 
+    pivot: {x: 0.62337667, y: -0.36842105}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 1921
+      width: 154
+      height: 133
+    spriteID: 848a7759ed5e6446a96059f245a07b58
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 691, y: 1872}
+  - name: female-demons-slayer_Frame_163
+    originalName: 
+    pivot: {x: 1.1728395, y: -0.37777779}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 3670
+      width: 162
+      height: 135
+    spriteID: c72e397fa353d48fab6780995b0e169f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 3619}
+  - name: female-demons-slayer_Frame_164
+    originalName: 
+    pivot: {x: 1.0404624, y: -0.31847134}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 2092
+      width: 173
+      height: 157
+    spriteID: 64211c197bd8c439bac487dc91de7396
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 462, y: 2042}
+  - name: female-demons-slayer_Frame_165
+    originalName: 
+    pivot: {x: 0.44827586, y: -0.26041666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 230
+      width: 203
+      height: 192
+    spriteID: e87faef6fae9e4e238ae4460329720ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -99, y: 180}
+  - name: female-demons-slayer_Frame_166
+    originalName: 
+    pivot: {x: 0.55778897, y: -0.41346154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 4
+      width: 199
+      height: 104
+    spriteID: aa228320114414921b77050ff815b1bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1212, y: -39}
+  - name: female-demons-slayer_Frame_167
+    originalName: 
+    pivot: {x: 0.876033, y: -0.4385965}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1502
+      y: 133
+      width: 121
+      height: 114
+    spriteID: aa5a2b2c3f6014299b4b1f5dc63f5dda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1414, y: 83}
+  - name: female-demons-slayer_Frame_168
+    originalName: 
+    pivot: {x: 0.4311111, y: -0.4854369}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 2632
+      width: 225
+      height: 103
+    spriteID: 24450ffdeb0494608a21d1f11a63469c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 2582}
+  - name: female-demons-slayer_Frame_169
+    originalName: 
+    pivot: {x: 0.39999998, y: -0.35042736}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 779
+      width: 245
+      height: 117
+    spriteID: 9ce56b29bbe1d429baad33e0c458374d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 380, y: 738}
+  - name: female-demons-slayer_Frame_170
+    originalName: 
+    pivot: {x: 0.50259066, y: -0.295858}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1779
+      width: 193
+      height: 169
+    spriteID: e432622db1c5c4572b130d94b702ddc3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -93, y: 1729}
+  - name: female-demons-slayer_Frame_171
+    originalName: 
+    pivot: {x: 0.48039213, y: -0.25301203}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1415
+      width: 204
+      height: 166
+    spriteID: 5901d632132444476ae69a609f74270a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -92, y: 1373}
+  - name: female-demons-slayer_Frame_172
+    originalName: 
+    pivot: {x: 0.4330357, y: -0.4854369}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 2743
+      width: 224
+      height: 103
+    spriteID: eff15323a4f864bd99f3a9b70fe32433
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 2693}
+  - name: female-demons-slayer_Frame_173
+    originalName: 
+    pivot: {x: 0.4100418, y: -0.32231405}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 650
+      width: 239
+      height: 121
+    spriteID: 119490fd9541b4a1faa704a82e50c9ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 380, y: 611}
+  - name: female-demons-slayer_Frame_174
+    originalName: 
+    pivot: {x: 0.8699187, y: -0.44545454}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1502
+      y: 255
+      width: 123
+      height: 110
+    spriteID: 098a8c29554fb436e8b66c2d8f589883
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1415, y: 206}
+  - name: female-demons-slayer_Frame_175
+    originalName: 
+    pivot: {x: 0.77099234, y: -0.4385965}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 2289
+      width: 131
+      height: 114
+    spriteID: 62838de980c804bf996fb2c8e35dbe62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1554, y: 2239}
+  - name: female-demons-slayer_Frame_176
+    originalName: 
+    pivot: {x: 0.7214286, y: -0.4385965}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 1013
+      width: 140
+      height: 114
+    spriteID: abe4841c835844d84900b36dfcd40b50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1554, y: 963}
+  - name: female-demons-slayer_Frame_177
+    originalName: 
+    pivot: {x: 0.6820084, y: -0.5102041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 111
+      width: 239
+      height: 98
+    spriteID: a28737d8121c441fd8eca73f85fa5d2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 758, y: 61}
+  - name: female-demons-slayer_Frame_178
+    originalName: 
+    pivot: {x: 0.62418306, y: -0.5454545}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 4
+      width: 306
+      height: 99
+    spriteID: c0983086b559f4986a704cc88e1849c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 786, y: -50}
+  - name: female-demons-slayer_Frame_179
+    originalName: 
+    pivot: {x: 0.59016395, y: -0.37168142}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 4
+      width: 305
+      height: 113
+    spriteID: d32e5209977574f4482c7b70bb6c0f15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 462, y: -38}
+  - name: female-demons-slayer_Frame_180
+    originalName: 
+    pivot: {x: 0.39316243, y: -0.5096154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 1998
+      width: 234
+      height: 104
+    spriteID: 5d8cc45e86910498383e04cbbb20c0e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 1945}
+  - name: female-demons-slayer_Frame_181
+    originalName: 
+    pivot: {x: 0.5162455, y: -0.5416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 2824
+      width: 277
+      height: 96
+    spriteID: d5e2221ae15f34d8d84590c774b3ef78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 425, y: 2772}
+  - name: female-demons-slayer_Frame_182
+    originalName: 
+    pivot: {x: 0.8727273, y: -0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 1641
+      width: 220
+      height: 112
+    spriteID: fff3d411dd667452297b7201bec2dde6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 1607}
+  - name: female-demons-slayer_Frame_183
+    originalName: 
+    pivot: {x: 0.90954775, y: -0.34615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 116
+      width: 199
+      height: 104
+    spriteID: 0d8883abdaa2141d4a8e3f4d55fe9a68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1282, y: 80}
+  - name: female-demons-slayer_Frame_184
+    originalName: 
+    pivot: {x: 0.8819445, y: -0.33663365}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 2532
+      width: 144
+      height: 101
+    spriteID: 49d089616b8da45f989cfe3a67146ffc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1580, y: 2498}
+  - name: female-demons-slayer_Frame_185
+    originalName: 
+    pivot: {x: 0.6714286, y: -0.3828125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 690
+      width: 140
+      height: 128
+    spriteID: a01bf9eaf403e4f1892262a6d03d833d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1003, y: 641}
+  - name: female-demons-slayer_Frame_186
+    originalName: 
+    pivot: {x: 0.6642857, y: -0.37984496}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 264
+      width: 140
+      height: 129
+    spriteID: 5a1ef33a046cd4b61961aaae6720bfa8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1002, y: 215}
+  - name: female-demons-slayer_Frame_187
+    originalName: 
+    pivot: {x: 0.6571429, y: -0.37692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 3526
+      width: 140
+      height: 130
+    spriteID: 2b94f75fcf9024491adf8835bd33e086
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1193, y: 3477}
+  - name: female-demons-slayer_Frame_188
+    originalName: 
+    pivot: {x: 0.6642857, y: -0.37984496}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 401
+      width: 140
+      height: 129
+    spriteID: 63f6f746c39b54edf908579b570fb753
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1002, y: 352}
+  - name: female-demons-slayer_Frame_189
+    originalName: 
+    pivot: {x: 0.79611653, y: -0.35172415}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 670
+      y: 1039
+      width: 103
+      height: 145
+    spriteID: 536164fe017d04c0bbceaadc124486cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 558, y: 988}
+  - name: female-demons-slayer_Frame_190
+    originalName: 
+    pivot: {x: 0.4230769, y: -0.3875969}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 3761
+      width: 130
+      height: 129
+    spriteID: bc4fae9564e2a421fb8291edfcc37eab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 964, y: 3711}
+  - name: female-demons-slayer_Frame_191
+    originalName: 
+    pivot: {x: 0.19907406, y: -0.35483873}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 2543
+      width: 216
+      height: 124
+    spriteID: eec4d43ec96394aa98be4cb9a62bbfcc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 325, y: 2499}
+  - name: female-demons-slayer_Frame_192
+    originalName: 
+    pivot: {x: 0.19999999, y: -0.3492064}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 2257
+      width: 215
+      height: 126
+    spriteID: da84964bc14d44c648bbcb949fba3b1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 325, y: 2213}
+  - name: female-demons-slayer_Frame_193
+    originalName: 
+    pivot: {x: 0.20093456, y: -0.33846158}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 1523
+      width: 214
+      height: 130
+    spriteID: 86782777a308a48a3bd489d8a8b1a48c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 325, y: 1479}
+  - name: female-demons-slayer_Frame_194
+    originalName: 
+    pivot: {x: 0.2063492, y: -0.3546099}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 2675
+      width: 189
+      height: 141
+    spriteID: 8bd06fb965a564416af20e7b7874cf7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 321, y: 2625}
+  - name: female-demons-slayer_Frame_195
+    originalName: 
+    pivot: {x: 0.37614676, y: -0.2525773}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 1448
+      width: 109
+      height: 194
+    spriteID: 8f78ae5a6b96b406b98d107bc4333713
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 636, y: 1399}
+  - name: female-demons-slayer_Frame_196
+    originalName: 
+    pivot: {x: 0.9907407, y: -0.2451923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 647
+      y: 3856
+      width: 108
+      height: 208
+    spriteID: 1eaf67dae02f243a8b6e395ef91aa03d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 560, y: 3805}
+  - name: female-demons-slayer_Frame_197
+    originalName: 
+    pivot: {x: 1.1034483, y: -0.32214767}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 3699
+      width: 174
+      height: 149
+    spriteID: eb4d878f2ead9403fa9c93b7cf755a60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 474, y: 3651}
+  - name: female-demons-slayer_Frame_198
+    originalName: 
+    pivot: {x: 1.122807, y: -0.4247788}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 510
+      width: 171
+      height: 113
+    spriteID: f0a10a5cc870946e68cad0e148d9187a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1293, y: 462}
+  - name: female-demons-slayer_Frame_199
+    originalName: 
+    pivot: {x: 1.1895425, y: -0.42105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 1367
+      width: 153
+      height: 114
+    spriteID: 81d70265d09124f2d9b1b44edbcb110e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1091, y: 1319}
+  - name: female-demons-slayer_Frame_200
+    originalName: 
+    pivot: {x: 0.7868853, y: -0.3712121}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 754
+      width: 122
+      height: 132
+    spriteID: 45644a17c5d354607902ec3e445d13f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1549, y: 705}
+  - name: female-demons-slayer_Frame_201
+    originalName: 
+    pivot: {x: 0.9162562, y: -0.36567163}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 1950
+      width: 203
+      height: 134
+    spriteID: 644f82b4311704ac5b7dbae274db6c0c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 468, y: 1901}
+  - name: female-demons-slayer_Frame_202
+    originalName: 
+    pivot: {x: 0.8109453, y: -0.273743}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 808
+      width: 201
+      height: 179
+    spriteID: 348559ce083a7473e9aa344273cf2c50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -27, y: 759}
+  - name: female-demons-slayer_Frame_203
+    originalName: 
+    pivot: {x: 0.7751196, y: -0.27840906}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 624
+      width: 209
+      height: 176
+    spriteID: 726ac5ebac8e34e3394ccf5c167b7054
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -28, y: 575}
+  - name: female-demons-slayer_Frame_204
+    originalName: 
+    pivot: {x: 1.090909, y: -0.3121019}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 634
+      y: 1199
+      width: 143
+      height: 157
+    spriteID: 3c497ad9020d2419096e92e432433f15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 596, y: 1150}
+  - name: female-demons-slayer_Frame_205
+    originalName: 
+    pivot: {x: 0.53435117, y: -0.26896554}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 1318
+      width: 131
+      height: 145
+    spriteID: bceb5c3c61c6b48d2a29d19a8598747d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1171, y: 1279}
+  - name: female-demons-slayer_Frame_206
+    originalName: 
+    pivot: {x: 0.8383234, y: -0.38582674}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 1175
+      width: 167
+      height: 127
+    spriteID: c3dd705f9a36445b28c629f77ce8450a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 735, y: 1126}
+  - name: female-demons-slayer_Frame_207
+    originalName: 
+    pivot: {x: 0.84999996, y: -0.52040815}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 1120
+      width: 180
+      height: 98
+    spriteID: ee38400e7645348328aa52804c55e140
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1062, y: 1069}
+  - name: female-demons-slayer_Frame_208
+    originalName: 
+    pivot: {x: 0.8791946, y: -0.49514562}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 1663
+      width: 149
+      height: 103
+    spriteID: a46d9e8034bcd465a85f00985ffb887d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1584, y: 1612}
+  - name: female-demons-slayer_Frame_209
+    originalName: 
+    pivot: {x: 0.9361703, y: -0.425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 3508
+      width: 141
+      height: 120
+    spriteID: 972ce9c085ad441b598f39d0496c2a71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1041, y: 3457}
+  - name: female-demons-slayer_Frame_210
+    originalName: 
+    pivot: {x: 0.8863637, y: -0.32413796}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 1033
+      width: 132
+      height: 145
+    spriteID: ab007c3b0bb854631b26ea97b50912bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1218, y: 986}
+  - name: female-demons-slayer_Frame_211
+    originalName: 
+    pivot: {x: 0.2736842, y: -0.3816794}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 1371
+      width: 190
+      height: 131
+    spriteID: e7be33b447c5d4650972a3192429563a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 1321}
+  - name: female-demons-slayer_Frame_212
+    originalName: 
+    pivot: {x: 0.764045, y: -0.18709677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 1787
+      width: 178
+      height: 155
+    spriteID: 2f026470005f646559d9b200b4bb6b4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 418, y: 1758}
+  - name: female-demons-slayer_Frame_213
+    originalName: 
+    pivot: {x: 0.3333333, y: -0.26153848}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 792
+      width: 195
+      height: 130
+    spriteID: 708c52fb2f9c14ce99153bf30f22fcb2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 758}
+  - name: female-demons-slayer_Frame_214
+    originalName: 
+    pivot: {x: 0.31862745, y: -0.2982456}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 2510
+      width: 204
+      height: 114
+    spriteID: 25f4b48aefb10496d9507c46b233aaac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 2476}
+  - name: female-demons-slayer_Frame_215
+    originalName: 
+    pivot: {x: 0.33505154, y: -0.30172417}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 3267
+      width: 194
+      height: 116
+    spriteID: b7689f0fcc0f04548b5617873189e190
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 3232}
+  - name: female-demons-slayer_Frame_216
+    originalName: 
+    pivot: {x: 0.26219508, y: -0.29850748}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 3528
+      width: 164
+      height: 134
+    spriteID: bb30633be1cb84b51b02185ff03bae32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 3488}
+  - name: female-demons-slayer_Frame_217
+    originalName: 
+    pivot: {x: 0.21693121, y: -0.3006135}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2475
+      width: 189
+      height: 163
+    spriteID: 708d05f8ad63a41c8a96c4eb46b215b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -149, y: 2426}
+  - name: female-demons-slayer_Frame_218
+    originalName: 
+    pivot: {x: 0.5363636, y: -0.23394495}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 220
+      height: 218
+    spriteID: 839f9dbbc3a1b4eb981f256e8d193071
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -72, y: -47}
+  - name: female-demons-slayer_Frame_219
+    originalName: 
+    pivot: {x: 1.1022727, y: -0.29268292}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3508
+      width: 176
+      height: 164
+    spriteID: 868497a3338374a23ac0d0c517c0df9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3460}
+  - name: female-demons-slayer_Frame_220
+    originalName: 
+    pivot: {x: 1.1272727, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 3383
+      width: 165
+      height: 120
+    spriteID: 1961bdd39049144a7b64e25277bed321
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 781, y: 3335}
+  - name: female-demons-slayer_Frame_221
+    originalName: 
+    pivot: {x: 1.2265625, y: -0.3966942}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 1534
+      width: 128
+      height: 121
+    spriteID: 79c5a7b66a1964fddb41e3c84b6e87a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1610, y: 1486}
+  - name: female-demons-slayer_Frame_222
+    originalName: 
+    pivot: {x: 0.7482993, y: -0.5463918}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 3044
+      width: 147
+      height: 97
+    spriteID: 0df38fbba84db4456b5bde81c14db545
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1563, y: 2991}
+  - name: female-demons-slayer_Frame_223
+    originalName: 
+    pivot: {x: 0.5575221, y: -0.33566436}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 979
+      y: 786
+      width: 113
+      height: 143
+    spriteID: e5d058e8396eb46a4ac53f8fb51083a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 848, y: 738}
+  - name: female-demons-slayer_Frame_224
+    originalName: 
+    pivot: {x: 0.5446428, y: -0.3380282}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 1135
+      width: 112
+      height: 142
+    spriteID: 1fc37fd539804416c863bec9f3d8a3e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1514, y: 1087}
+  - name: female-demons-slayer_Frame_225
+    originalName: 
+    pivot: {x: 0.6428572, y: -0.3816794}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1295
+      y: 2974
+      width: 140
+      height: 131
+    spriteID: f8bdb462f3b1940a4a183d5d0a341a3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1191, y: 2924}
+  - name: female-demons-slayer_Frame_226
+    originalName: 
+    pivot: {x: 0.6793893, y: -0.45132744}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 2411
+      width: 131
+      height: 113
+    spriteID: d971312d2cdb94b1d871f098e62a9e7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1542, y: 2360}
+  - name: female-demons-slayer_Frame_227
+    originalName: 
+    pivot: {x: 0.84444445, y: -0.47706422}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 686
+      y: 3562
+      width: 90
+      height: 109
+    spriteID: 0284b7c79d03a4de9bde1dafb7061902
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 568, y: 3510}
+  - name: female-demons-slayer_Frame_228
+    originalName: 
+    pivot: {x: 0.45679015, y: -0.42276424}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 2966
+      width: 162
+      height: 123
+    spriteID: 01e039403c3b74e8ab3501312f3ce000
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 669, y: 2914}
+  - name: female-demons-slayer_Frame_229
+    originalName: 
+    pivot: {x: 0.7920792, y: -0.4031008}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 3562
+      width: 202
+      height: 129
+    spriteID: f395520c3c2a743508c2060ba3562652
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 442, y: 3510}
+  - name: female-demons-slayer_Frame_230
+    originalName: 
+    pivot: {x: 0.79802954, y: -0.4031008}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 3115
+      width: 203
+      height: 129
+    spriteID: 93aeb97fb04dd4fdaa88dba4f33c89f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 3063}
+  - name: female-demons-slayer_Frame_231
+    originalName: 
+    pivot: {x: 1.0878378, y: -0.3880597}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 3241
+      width: 148
+      height: 134
+    spriteID: 037e8ab47512647ae841820ae48fff64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 756, y: 3189}
+  - name: female-demons-slayer_Frame_232
+    originalName: 
+    pivot: {x: 1.2357143, y: -0.35416666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 2522
+      width: 140
+      height: 144
+    spriteID: da2afbe804170438cac1e905ab621e52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 768, y: 2471}
+  - name: female-demons-slayer_Frame_233
+    originalName: 
+    pivot: {x: 1.2357143, y: -0.35172415}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 2216
+      width: 140
+      height: 145
+    spriteID: 74bcd9d5fe5104c288bd388d97f84353
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 768, y: 2165}
+  - name: female-demons-slayer_Frame_234
+    originalName: 
+    pivot: {x: 1.2357143, y: -0.34931508}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 2062
+      width: 140
+      height: 146
+    spriteID: 328c741836bb64fb78944b523227762f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 768, y: 2011}
+  - name: female-demons-slayer_Frame_235
+    originalName: 
+    pivot: {x: 1.2357143, y: -0.35172415}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 2369
+      width: 140
+      height: 145
+    spriteID: f3474e0a014244108b9e227ff10bed57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 768, y: 2318}
+  - name: female-demons-slayer_Frame_236
+    originalName: 
+    pivot: {x: 0.8514852, y: -0.34965035}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 2641
+      width: 101
+      height: 143
+    spriteID: 4fce9362c0b7645619db6788a51df8e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1539, y: 2591}
+  - name: female-demons-slayer_Frame_237
+    originalName: 
+    pivot: {x: 0.8292683, y: -0.34027776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 968
+      width: 123
+      height: 144
+    spriteID: f46f045ab755b4c10aebe0f97a1cf81e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1011, y: 919}
+  - name: female-demons-slayer_Frame_238
+    originalName: 
+    pivot: {x: 1.1041666, y: -0.3310345}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 3914
+      width: 96
+      height: 145
+    spriteID: a186f3ab9101a4102b5c97b9190834ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1559, y: 3866}
+  - name: female-demons-slayer_Frame_239
+    originalName: 
+    pivot: {x: 1.1354166, y: -0.32876715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 3760
+      width: 96
+      height: 146
+    spriteID: 2cb34eed70b2643a0adccf47deaa5fb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1562, y: 3712}
+  - name: female-demons-slayer_Frame_240
+    originalName: 
+    pivot: {x: 1.1458333, y: -0.3265306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1647
+      y: 3605
+      width: 96
+      height: 147
+    spriteID: 7a0d3ead3702b487a941abf09de9e1d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1563, y: 3557}
+  - name: female-demons-slayer_Frame_241
+    originalName: 
+    pivot: {x: 0.8073395, y: -0.23134327}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 670
+      y: 2391
+      width: 109
+      height: 134
+    spriteID: 522c5c903ee66483a9e319a2ec551ba7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 564, y: 2360}
+  - name: female-demons-slayer_Frame_242
+    originalName: 
+    pivot: {x: 0.8974359, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1502
+      y: 373
+      width: 117
+      height: 98
+    spriteID: a635770ffae994c8c9f69238b75d244d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1413, y: 324}
+  - name: female-demons-slayer_Frame_243
+    originalName: 
+    pivot: {x: 1.0612245, y: -0.26966292}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 632
+      y: 2928
+      width: 147
+      height: 178
+    spriteID: 3ac5f17e444244b17877ab896b47105c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 594, y: 2880}
+  - name: female-demons-slayer_Frame_244
+    originalName: 
+    pivot: {x: 1.0608108, y: -0.26815644}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 2928
+      width: 148
+      height: 179
+    spriteID: 049b20bbd4c464d458e4eef662bfeee5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 439, y: 2880}
+  - name: female-demons-slayer_Frame_245
+    originalName: 
+    pivot: {x: 1.2386364, y: -0.04232804}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 3898
+      width: 88
+      height: 189
+    spriteID: 91da9d317626048a7848ef43921a4978
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1018, y: 3890}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1338864586
+    name: female-demons-slayer
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: female-demons-slayer_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: a8cef623015f9400ea6bf0baacda6b63
+    - name: female-demons-slayer_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 625c317366e294fd08e23662e3637c52
+    - name: female-demons-slayer_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: bada93809818843c9b33aa2e2d4f0148
+    - name: female-demons-slayer_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 0f7099eebe5d343ffae41f4e57544c65
+    - name: female-demons-slayer_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 099ab28e647b94ed9b5a517210366cfd
+    - name: female-demons-slayer_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: e282002a9833f4f8c9c10076fc872972
+    - name: female-demons-slayer_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 5cd5cfda8020e41aa8e52ff0dcec8dd2
+    - name: female-demons-slayer_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 29e622e04e4334dbfaab08df23e74518
+    - name: female-demons-slayer_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 6a8082ef2f7594f28b7b76faadb8bc99
+    - name: female-demons-slayer_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 260246ad39e984ff0a44d8efe6bb2c66
+    - name: female-demons-slayer_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 9f9e70eed93d24c798365de82662da97
+    - name: female-demons-slayer_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 2da7b89098e744b988dba6b438586e5e
+    - name: female-demons-slayer_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: d9ffc90e834f046ba82961dd4d667c94
+    - name: female-demons-slayer_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 32cffe2ae0f134d4c866fb9f526af6e4
+    - name: female-demons-slayer_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 9d4934ab93cf94936bae9b420aa73f31
+    - name: female-demons-slayer_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: e61a7cdfbfbc14775a70c56e16818bd9
+    - name: female-demons-slayer_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 0f3faa60d860745ad85d0a2116c96d14
+    - name: female-demons-slayer_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: f421a86869d63438b8b2e858d481d47c
+    - name: female-demons-slayer_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: c89fc95850d6d4a8fbed38267a050784
+    - name: female-demons-slayer_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 3a2c25935d56346bfa2541ed1828fefc
+    - name: female-demons-slayer_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: f59d4483e31304248bb57023054eef9b
+    - name: female-demons-slayer_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 77a2e9de3b60b454f8525f23b990e2d8
+    - name: female-demons-slayer_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: cafe6296a12e44e72a192ce9cf3e9bce
+    - name: female-demons-slayer_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: dec97ecbdaa0d40de9e5c1ba9ec6325c
+    - name: female-demons-slayer_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 334610172b1ec4d5db7d6c23e0062f1b
+    - name: female-demons-slayer_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: a2c36ce3f0f8a4457922a3e63c54ecd9
+    - name: female-demons-slayer_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 3dc09df88f8a24e0282287c300f1aaab
+    - name: female-demons-slayer_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: b44a791842e8c4beb99cf3b5f47cecc5
+    - name: female-demons-slayer_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: fc2b6fc00b84a47b5a6fa08408b923d2
+    - name: female-demons-slayer_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 573ff829685ec490db3bad657d80494c
+    - name: female-demons-slayer_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: b4b5408fc20cd4e1989f35c656980ea0
+    - name: female-demons-slayer_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: d398571b6224843f39d4955b53db15ea
+    - name: female-demons-slayer_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 626c02a4ef54c4c469f10dee2b9848b4
+    - name: female-demons-slayer_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: dc91373ceb69e4f0080c66e3cc318076
+    - name: female-demons-slayer_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: f526ea7ade7be465eb978d7059c0dbbf
+    - name: female-demons-slayer_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 95b2edf5a974f43edbd40bd2f7781f41
+    - name: female-demons-slayer_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 4574d40b41c444249b72e82c7bbe822c
+    - name: female-demons-slayer_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 9c5a8fb9a273641eaa59468bbc597883
+    - name: female-demons-slayer_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 066625c1e79424cc584695646e99da0e
+    - name: female-demons-slayer_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 07082742476c74ce4806e6712d4d60cf
+    - name: female-demons-slayer_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 147757debe8914513b3400ec105d2029
+    - name: female-demons-slayer_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 5dc61822b2d3c4711b8cad0f4ecdbe84
+    - name: female-demons-slayer_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 53669a132cc5b4a07bb63f8f98b22df9
+    - name: female-demons-slayer_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 7ce343a508d6c461aa0dbdc1ca99a914
+    - name: female-demons-slayer_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: bb10815bf65664ca29ec6abb6986241a
+    - name: female-demons-slayer_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 334abd8f703394764862fd8b647f0634
+    - name: female-demons-slayer_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 959f2b3aa407f43c2a8bcf63118fde1b
+    - name: female-demons-slayer_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: a56f0407d12e64af6b1baf59b7801f06
+    - name: female-demons-slayer_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 5a417e0cf43a2479db4c0e8ffe223b18
+    - name: female-demons-slayer_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 6f06f6b4a3e154e90b2868c414bd26de
+    - name: female-demons-slayer_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: eb08930e1b593455382105ae8bdccf72
+    - name: female-demons-slayer_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: fd10a8baddec044c3b1613a612ca113d
+    - name: female-demons-slayer_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: c0790bb2939e445e79c53bb1a4c68976
+    - name: female-demons-slayer_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 41cc462761db24bcaa9478bfa626c88e
+    - name: female-demons-slayer_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 129f1c36d4dc34cebb2b9576ce9dcb1d
+    - name: female-demons-slayer_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: b83a5f9ad613248c78e8d0d64bc70f6d
+    - name: female-demons-slayer_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: c9cd258e084544b4e80899eb48e0fe03
+    - name: female-demons-slayer_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: bd7d830d69e02402a8ad5a95f45480e6
+    - name: female-demons-slayer_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: a18e9e45d09c542c5b4b961cead75839
+    - name: female-demons-slayer_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 926a09bd492e84bd4b55af43909a0862
+    - name: female-demons-slayer_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 63645de0fb85a4fd2a9cbc3553e5e6a8
+    - name: female-demons-slayer_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 19b001b205deb49a6ac052f142064502
+    - name: female-demons-slayer_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 766179cd54cc84847959ddf04e025b5e
+    - name: female-demons-slayer_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 03318fc5563a748aeac109257f2386a1
+    - name: female-demons-slayer_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: a82623775a81d455c86080cee3693fa6
+    - name: female-demons-slayer_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: e47ba548aac974034a494bf08d37fbf7
+    - name: female-demons-slayer_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: cf99b622d068548f3879339272e28faa
+    - name: female-demons-slayer_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: f17ada199b943476c87a5f6baa795eff
+    - name: female-demons-slayer_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 4a9dfe5600ba74e5bbc3888bfd4fddae
+    - name: female-demons-slayer_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 878aac59b364b4e4f9b1f1629667d49c
+    - name: female-demons-slayer_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 18d7234c330dd4a7dafe37aa08a7251c
+    - name: female-demons-slayer_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 8b981952cf3d34d5095c624b48e50172
+    - name: female-demons-slayer_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 5a585a723af954e04a321710b9c8c466
+    - name: female-demons-slayer_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: cf9480d681733483b96b008759e67073
+    - name: female-demons-slayer_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 8e1903cf3d3074cc19bf23cc3c7a44fe
+    - name: female-demons-slayer_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: cb580a1896f134873bf948691537b486
+    - name: female-demons-slayer_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 37367f7f17b59437fbcdff7a34fce22d
+    - name: female-demons-slayer_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 58902ce183b5941c2a6e54c4d1e02ce2
+    - name: female-demons-slayer_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 21560814e24d84b289022c4c6452c9a6
+    - name: female-demons-slayer_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: c6b42ddd57ebc4191a4a5396dbae44e9
+    - name: female-demons-slayer_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 1c6383ff4232c43f2a5d4c5fab39cf1b
+    - name: female-demons-slayer_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: af53bd95ed11b47b085fceb4441df873
+    - name: female-demons-slayer_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: d353951bf4ad94b82a83aaafc4748785
+    - name: female-demons-slayer_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: b05c11db8f93d4a2986b327554134903
+    - name: female-demons-slayer_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 0411c1d5fe69744099b0e8318e7efe06
+    - name: female-demons-slayer_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: e64de995fdfa247d7b987fec00026de0
+    - name: female-demons-slayer_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 759a3f25a85b547e5a557da6316e1cde
+    - name: female-demons-slayer_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 31fbcb9bc39a54bcba23b9cf98c5187d
+    - name: female-demons-slayer_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 01e1c509c52e241f5862f640daa00d6d
+    - name: female-demons-slayer_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: bfba39381299c49718926db327abea92
+    - name: female-demons-slayer_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: ddb5bcaa2c5344872bbdd0b993d3e7f9
+    - name: female-demons-slayer_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 80a02365a6d7c430b9c9cc9a274f7ba1
+    - name: female-demons-slayer_Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 6eaaef65e5de04db386938f55fb24864
+    - name: female-demons-slayer_Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 4b3ffa41af0de406eaf33f1d949a216c
+    - name: female-demons-slayer_Frame_94
+      frameIndex: 94
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: f05204628f04a496c95c52dba9ffc255
+    - name: female-demons-slayer_Frame_95
+      frameIndex: 95
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: e16757b88ad9c4fda8a9faaba778353f
+    - name: female-demons-slayer_Frame_96
+      frameIndex: 96
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 904b17a7002bf46c5a515d5aa5f1a4f0
+    - name: female-demons-slayer_Frame_97
+      frameIndex: 97
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: a4090772663cf48c0a877f7443f1c20e
+    - name: female-demons-slayer_Frame_98
+      frameIndex: 98
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 27865f6e9cc904a8fa332093a0edab5c
+    - name: female-demons-slayer_Frame_99
+      frameIndex: 99
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 11e3b933a89474dba9cd1536bc70bdcd
+    - name: female-demons-slayer_Frame_100
+      frameIndex: 100
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: ddaaea274078045f380fe73a8808aaa0
+    - name: female-demons-slayer_Frame_101
+      frameIndex: 101
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 67bc6bede0b674ed7b52abd2709cdffa
+    - name: female-demons-slayer_Frame_102
+      frameIndex: 102
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 81935c3d220de425b88c902d0e7327c6
+    - name: female-demons-slayer_Frame_103
+      frameIndex: 103
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: f211400901dbd4e75a09dc0cd77b37a9
+    - name: female-demons-slayer_Frame_104
+      frameIndex: 104
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 42757de5bc7d04a0499045c20b8d16b9
+    - name: female-demons-slayer_Frame_105
+      frameIndex: 105
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: db5a5d1a90fc44d4a856edabcc96807a
+    - name: female-demons-slayer_Frame_106
+      frameIndex: 106
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: c7f9cc511c0854f3aa517bdd6546fe3a
+    - name: female-demons-slayer_Frame_107
+      frameIndex: 107
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: ca089f4f45bdb4ff5b070a0862cb20e5
+    - name: female-demons-slayer_Frame_108
+      frameIndex: 108
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: cf62e4f543d1b4ae29e5baf75f3e13c8
+    - name: female-demons-slayer_Frame_109
+      frameIndex: 109
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: ba7370386a0a04874aa235968597e63d
+    - name: female-demons-slayer_Frame_110
+      frameIndex: 110
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: aa9171e62dab448d38c00ae2a82102f2
+    - name: female-demons-slayer_Frame_111
+      frameIndex: 111
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 47c3e3364e54c423d91b84832c4010ff
+    - name: female-demons-slayer_Frame_112
+      frameIndex: 112
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 282da928c08a448bca69db10aee049eb
+    - name: female-demons-slayer_Frame_113
+      frameIndex: 113
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 6046175b40d3145cd8ca8d030aee3402
+    - name: female-demons-slayer_Frame_114
+      frameIndex: 114
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: badede4557dc64c1aa5cbf2981124244
+    - name: female-demons-slayer_Frame_115
+      frameIndex: 115
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: ae6178ccde8a04618a43c262a0bc84a2
+    - name: female-demons-slayer_Frame_116
+      frameIndex: 116
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 77308b7c3b15145ff8a542594f6127cc
+    - name: female-demons-slayer_Frame_117
+      frameIndex: 117
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 206581aa6b3e9479ea117ee88812d6a8
+    - name: female-demons-slayer_Frame_118
+      frameIndex: 118
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 4c8b28be73f9e411ab72c09e31637498
+    - name: female-demons-slayer_Frame_119
+      frameIndex: 119
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: efc2d4899a1734395a747fd841783e93
+    - name: female-demons-slayer_Frame_120
+      frameIndex: 120
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 73a05de5899d744baa27cae7547b7768
+    - name: female-demons-slayer_Frame_121
+      frameIndex: 121
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 984ca8e88a5874bc0b2ac5e890d771fb
+    - name: female-demons-slayer_Frame_122
+      frameIndex: 122
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 34c477c6097254e01a0699852a7ec481
+    - name: female-demons-slayer_Frame_123
+      frameIndex: 123
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 9ad49418e5c014b7583e7635a374c460
+    - name: female-demons-slayer_Frame_124
+      frameIndex: 124
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: a5d1fa5570cb745dd85cc81d9c9e55fd
+    - name: female-demons-slayer_Frame_125
+      frameIndex: 125
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 71bdcd181f10b48b18c922eaaf956648
+    - name: female-demons-slayer_Frame_126
+      frameIndex: 126
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: b2e2fcc53750644e3824969b12b7c85d
+    - name: female-demons-slayer_Frame_127
+      frameIndex: 127
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 43566eb3e9fbe4d6f93f469497552989
+    - name: female-demons-slayer_Frame_128
+      frameIndex: 128
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 005e838fbc5774308a218130e6f70f40
+    - name: female-demons-slayer_Frame_129
+      frameIndex: 129
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: c1e6595b364994d9092e45abefd714ed
+    - name: female-demons-slayer_Frame_130
+      frameIndex: 130
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 6c453c7fb7a514dd583b0cfd2aa2e744
+    - name: female-demons-slayer_Frame_131
+      frameIndex: 131
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: ad053e30023644ceb8ac1c3b0d457cc3
+    - name: female-demons-slayer_Frame_132
+      frameIndex: 132
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 7c19a81ebd99d49839828fa76ec9b587
+    - name: female-demons-slayer_Frame_133
+      frameIndex: 133
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: c74c0816ebb3841f3a0c7fb277f5c5eb
+    - name: female-demons-slayer_Frame_134
+      frameIndex: 134
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: f13511f66231c4125864a65d61ec5884
+    - name: female-demons-slayer_Frame_135
+      frameIndex: 135
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 075af8d35f367413c91aae40a3af4cea
+    - name: female-demons-slayer_Frame_136
+      frameIndex: 136
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 5890143cab0ce4a3498df8eb4d3766f8
+    - name: female-demons-slayer_Frame_137
+      frameIndex: 137
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: ae5384da42d6a48d18526e3e35781322
+    - name: female-demons-slayer_Frame_138
+      frameIndex: 138
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 59bf6644e960044e7a7420364aea44a1
+    - name: female-demons-slayer_Frame_139
+      frameIndex: 139
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: a4ea660fbb65442d98560b15e34a173e
+    - name: female-demons-slayer_Frame_140
+      frameIndex: 140
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: dbef14df5649a46d7a9d8db708c5b2e5
+    - name: female-demons-slayer_Frame_141
+      frameIndex: 141
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: f4131536010d2443ca5c1ad8e60c0712
+    - name: female-demons-slayer_Frame_142
+      frameIndex: 142
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 050c979708f3b4e5e8acf5e18e11d398
+    - name: female-demons-slayer_Frame_143
+      frameIndex: 143
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: f113f113565d54701b2511c5dbd797c1
+    - name: female-demons-slayer_Frame_144
+      frameIndex: 144
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: c71036c1cfa1e4903b284b82c5e24956
+    - name: female-demons-slayer_Frame_145
+      frameIndex: 145
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: efba957074ea241cbb5f082721adf97f
+    - name: female-demons-slayer_Frame_146
+      frameIndex: 146
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 9333341362ea54443a760ab5cee2a6d6
+    - name: female-demons-slayer_Frame_147
+      frameIndex: 147
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 1e4adc2913e2648d0a6d57c544c77d78
+    - name: female-demons-slayer_Frame_148
+      frameIndex: 148
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: aa38e46e55b8044efbb6684f498ee50a
+    - name: female-demons-slayer_Frame_149
+      frameIndex: 149
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: fd2e1f4840db84f138907f55c4819854
+    - name: female-demons-slayer_Frame_150
+      frameIndex: 150
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 6a3876dc26d3d4f9cb564a75b662935d
+    - name: female-demons-slayer_Frame_151
+      frameIndex: 151
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: f1865bb6a20354c09a828e1ae092146e
+    - name: female-demons-slayer_Frame_152
+      frameIndex: 152
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: d2e01300ca41e4b04a65ca2be5a4815b
+    - name: female-demons-slayer_Frame_153
+      frameIndex: 153
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 44d2dde612b024e198f19f7890707847
+    - name: female-demons-slayer_Frame_154
+      frameIndex: 154
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: fd0cba3aaef1e4a748e42657d87998ed
+    - name: female-demons-slayer_Frame_155
+      frameIndex: 155
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 5998ec9ac8d4d4be89e9be756b243c7f
+    - name: female-demons-slayer_Frame_156
+      frameIndex: 156
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 59d31c1051df64f35be317c1d11a3210
+    - name: female-demons-slayer_Frame_157
+      frameIndex: 157
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 95ae95f0c118a45ed81d89f65f3b3e14
+    - name: female-demons-slayer_Frame_158
+      frameIndex: 158
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 2a4539e7e2f3a4fcc9810e26beaaaddb
+    - name: female-demons-slayer_Frame_159
+      frameIndex: 159
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: f2a951620cfdf4be3a7f799109b64444
+    - name: female-demons-slayer_Frame_160
+      frameIndex: 160
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 4e67a8bcc2492439bbfe983abb37465a
+    - name: female-demons-slayer_Frame_161
+      frameIndex: 161
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 9964d4906dbca4bd1a6d836405fcf257
+    - name: female-demons-slayer_Frame_162
+      frameIndex: 162
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 848a7759ed5e6446a96059f245a07b58
+    - name: female-demons-slayer_Frame_163
+      frameIndex: 163
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: c72e397fa353d48fab6780995b0e169f
+    - name: female-demons-slayer_Frame_164
+      frameIndex: 164
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 64211c197bd8c439bac487dc91de7396
+    - name: female-demons-slayer_Frame_165
+      frameIndex: 165
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: e87faef6fae9e4e238ae4460329720ee
+    - name: female-demons-slayer_Frame_166
+      frameIndex: 166
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: aa228320114414921b77050ff815b1bb
+    - name: female-demons-slayer_Frame_167
+      frameIndex: 167
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: aa5a2b2c3f6014299b4b1f5dc63f5dda
+    - name: female-demons-slayer_Frame_168
+      frameIndex: 168
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 24450ffdeb0494608a21d1f11a63469c
+    - name: female-demons-slayer_Frame_169
+      frameIndex: 169
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 9ce56b29bbe1d429baad33e0c458374d
+    - name: female-demons-slayer_Frame_170
+      frameIndex: 170
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: e432622db1c5c4572b130d94b702ddc3
+    - name: female-demons-slayer_Frame_171
+      frameIndex: 171
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 5901d632132444476ae69a609f74270a
+    - name: female-demons-slayer_Frame_172
+      frameIndex: 172
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: eff15323a4f864bd99f3a9b70fe32433
+    - name: female-demons-slayer_Frame_173
+      frameIndex: 173
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 119490fd9541b4a1faa704a82e50c9ce
+    - name: female-demons-slayer_Frame_174
+      frameIndex: 174
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 098a8c29554fb436e8b66c2d8f589883
+    - name: female-demons-slayer_Frame_175
+      frameIndex: 175
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 62838de980c804bf996fb2c8e35dbe62
+    - name: female-demons-slayer_Frame_176
+      frameIndex: 176
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: abe4841c835844d84900b36dfcd40b50
+    - name: female-demons-slayer_Frame_177
+      frameIndex: 177
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: a28737d8121c441fd8eca73f85fa5d2c
+    - name: female-demons-slayer_Frame_178
+      frameIndex: 178
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: c0983086b559f4986a704cc88e1849c4
+    - name: female-demons-slayer_Frame_179
+      frameIndex: 179
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: d32e5209977574f4482c7b70bb6c0f15
+    - name: female-demons-slayer_Frame_180
+      frameIndex: 180
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 5d8cc45e86910498383e04cbbb20c0e5
+    - name: female-demons-slayer_Frame_181
+      frameIndex: 181
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: d5e2221ae15f34d8d84590c774b3ef78
+    - name: female-demons-slayer_Frame_182
+      frameIndex: 182
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: fff3d411dd667452297b7201bec2dde6
+    - name: female-demons-slayer_Frame_183
+      frameIndex: 183
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 0d8883abdaa2141d4a8e3f4d55fe9a68
+    - name: female-demons-slayer_Frame_184
+      frameIndex: 184
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 49d089616b8da45f989cfe3a67146ffc
+    - name: female-demons-slayer_Frame_185
+      frameIndex: 185
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: a01bf9eaf403e4f1892262a6d03d833d
+    - name: female-demons-slayer_Frame_186
+      frameIndex: 186
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 5a1ef33a046cd4b61961aaae6720bfa8
+    - name: female-demons-slayer_Frame_187
+      frameIndex: 187
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 2b94f75fcf9024491adf8835bd33e086
+    - name: female-demons-slayer_Frame_188
+      frameIndex: 188
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 63f6f746c39b54edf908579b570fb753
+    - name: female-demons-slayer_Frame_189
+      frameIndex: 189
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 536164fe017d04c0bbceaadc124486cd
+    - name: female-demons-slayer_Frame_190
+      frameIndex: 190
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: bc4fae9564e2a421fb8291edfcc37eab
+    - name: female-demons-slayer_Frame_191
+      frameIndex: 191
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: eec4d43ec96394aa98be4cb9a62bbfcc
+    - name: female-demons-slayer_Frame_192
+      frameIndex: 192
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: da84964bc14d44c648bbcb949fba3b1b
+    - name: female-demons-slayer_Frame_193
+      frameIndex: 193
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 86782777a308a48a3bd489d8a8b1a48c
+    - name: female-demons-slayer_Frame_194
+      frameIndex: 194
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 8bd06fb965a564416af20e7b7874cf7e
+    - name: female-demons-slayer_Frame_195
+      frameIndex: 195
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 8f78ae5a6b96b406b98d107bc4333713
+    - name: female-demons-slayer_Frame_196
+      frameIndex: 196
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 1eaf67dae02f243a8b6e395ef91aa03d
+    - name: female-demons-slayer_Frame_197
+      frameIndex: 197
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: eb4d878f2ead9403fa9c93b7cf755a60
+    - name: female-demons-slayer_Frame_198
+      frameIndex: 198
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: f0a10a5cc870946e68cad0e148d9187a
+    - name: female-demons-slayer_Frame_199
+      frameIndex: 199
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 81d70265d09124f2d9b1b44edbcb110e
+    - name: female-demons-slayer_Frame_200
+      frameIndex: 200
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 45644a17c5d354607902ec3e445d13f8
+    - name: female-demons-slayer_Frame_201
+      frameIndex: 201
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 644f82b4311704ac5b7dbae274db6c0c
+    - name: female-demons-slayer_Frame_202
+      frameIndex: 202
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 348559ce083a7473e9aa344273cf2c50
+    - name: female-demons-slayer_Frame_203
+      frameIndex: 203
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 726ac5ebac8e34e3394ccf5c167b7054
+    - name: female-demons-slayer_Frame_204
+      frameIndex: 204
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 3c497ad9020d2419096e92e432433f15
+    - name: female-demons-slayer_Frame_205
+      frameIndex: 205
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: bceb5c3c61c6b48d2a29d19a8598747d
+    - name: female-demons-slayer_Frame_206
+      frameIndex: 206
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: c3dd705f9a36445b28c629f77ce8450a
+    - name: female-demons-slayer_Frame_207
+      frameIndex: 207
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: ee38400e7645348328aa52804c55e140
+    - name: female-demons-slayer_Frame_208
+      frameIndex: 208
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: a46d9e8034bcd465a85f00985ffb887d
+    - name: female-demons-slayer_Frame_209
+      frameIndex: 209
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 972ce9c085ad441b598f39d0496c2a71
+    - name: female-demons-slayer_Frame_210
+      frameIndex: 210
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: ab007c3b0bb854631b26ea97b50912bc
+    - name: female-demons-slayer_Frame_211
+      frameIndex: 211
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: e7be33b447c5d4650972a3192429563a
+    - name: female-demons-slayer_Frame_212
+      frameIndex: 212
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 2f026470005f646559d9b200b4bb6b4f
+    - name: female-demons-slayer_Frame_213
+      frameIndex: 213
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 708c52fb2f9c14ce99153bf30f22fcb2
+    - name: female-demons-slayer_Frame_214
+      frameIndex: 214
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 25f4b48aefb10496d9507c46b233aaac
+    - name: female-demons-slayer_Frame_215
+      frameIndex: 215
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: b7689f0fcc0f04548b5617873189e190
+    - name: female-demons-slayer_Frame_216
+      frameIndex: 216
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: bb30633be1cb84b51b02185ff03bae32
+    - name: female-demons-slayer_Frame_217
+      frameIndex: 217
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 708d05f8ad63a41c8a96c4eb46b215b3
+    - name: female-demons-slayer_Frame_218
+      frameIndex: 218
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 839f9dbbc3a1b4eb981f256e8d193071
+    - name: female-demons-slayer_Frame_219
+      frameIndex: 219
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 868497a3338374a23ac0d0c517c0df9b
+    - name: female-demons-slayer_Frame_220
+      frameIndex: 220
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 1961bdd39049144a7b64e25277bed321
+    - name: female-demons-slayer_Frame_221
+      frameIndex: 221
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 79c5a7b66a1964fddb41e3c84b6e87a8
+    - name: female-demons-slayer_Frame_222
+      frameIndex: 222
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 0df38fbba84db4456b5bde81c14db545
+    - name: female-demons-slayer_Frame_223
+      frameIndex: 223
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: e5d058e8396eb46a4ac53f8fb51083a2
+    - name: female-demons-slayer_Frame_224
+      frameIndex: 224
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 1fc37fd539804416c863bec9f3d8a3e1
+    - name: female-demons-slayer_Frame_225
+      frameIndex: 225
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: f8bdb462f3b1940a4a183d5d0a341a3b
+    - name: female-demons-slayer_Frame_226
+      frameIndex: 226
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: d971312d2cdb94b1d871f098e62a9e7d
+    - name: female-demons-slayer_Frame_227
+      frameIndex: 227
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 0284b7c79d03a4de9bde1dafb7061902
+    - name: female-demons-slayer_Frame_228
+      frameIndex: 228
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 01e039403c3b74e8ab3501312f3ce000
+    - name: female-demons-slayer_Frame_229
+      frameIndex: 229
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: f395520c3c2a743508c2060ba3562652
+    - name: female-demons-slayer_Frame_230
+      frameIndex: 230
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 93aeb97fb04dd4fdaa88dba4f33c89f1
+    - name: female-demons-slayer_Frame_231
+      frameIndex: 231
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 037e8ab47512647ae841820ae48fff64
+    - name: female-demons-slayer_Frame_232
+      frameIndex: 232
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: da2afbe804170438cac1e905ab621e52
+    - name: female-demons-slayer_Frame_233
+      frameIndex: 233
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 74bcd9d5fe5104c288bd388d97f84353
+    - name: female-demons-slayer_Frame_234
+      frameIndex: 234
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 328c741836bb64fb78944b523227762f
+    - name: female-demons-slayer_Frame_235
+      frameIndex: 235
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: f3474e0a014244108b9e227ff10bed57
+    - name: female-demons-slayer_Frame_236
+      frameIndex: 236
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 4fce9362c0b7645619db6788a51df8e0
+    - name: female-demons-slayer_Frame_237
+      frameIndex: 237
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: f46f045ab755b4c10aebe0f97a1cf81e
+    - name: female-demons-slayer_Frame_238
+      frameIndex: 238
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: a186f3ab9101a4102b5c97b9190834ea
+    - name: female-demons-slayer_Frame_239
+      frameIndex: 239
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 2cb34eed70b2643a0adccf47deaa5fb5
+    - name: female-demons-slayer_Frame_240
+      frameIndex: 240
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 7a0d3ead3702b487a941abf09de9e1d3
+    - name: female-demons-slayer_Frame_241
+      frameIndex: 241
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 522c5c903ee66483a9e319a2ec551ba7
+    - name: female-demons-slayer_Frame_242
+      frameIndex: 242
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: a635770ffae994c8c9f69238b75d244d
+    - name: female-demons-slayer_Frame_243
+      frameIndex: 243
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 3ac5f17e444244b17877ab896b47105c
+    - name: female-demons-slayer_Frame_244
+      frameIndex: 244
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 049b20bbd4c464d458e4eef662bfeee5
+    - name: female-demons-slayer_Frame_245
+      frameIndex: 245
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 388
+        height: 275
+      spriteId: 91da9d317626048a7848ef43921a4978
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 388, y: 272}
